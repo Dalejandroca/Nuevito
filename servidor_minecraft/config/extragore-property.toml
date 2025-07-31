@@ -1,0 +1,159 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file lets you create custom blood particle properties for different entities.
+# Start by naming each property group uniquely to initialize and manage it effectively.
+# Choose a behavior for the particle:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will cling to walls and surfaces.
+# - None: The particle will have no special behaviors.
+# Finally, set an RGB color value to visually distinguish the particle with a specific color for your set of different entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, color and entities values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = "Collision" # Choose from "Stuck", "Bounce" or "None"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Stuck"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "minecraft:giant",
+    "jcraft:goldexperience",
+    "minecraft:trader_llama",
+    "minecraft:horse",
+    "hordes:zombie_player",
+    "jcraft:theworld",
+    "jcraft:mih",
+    "jcraft:petshop",
+    "minecraft:llama",
+    "minecraft:husk",
+    "jcraft:cmoon",
+    "jcraft:foo_fighters",
+    "minecraft:tadpole",
+    "minecraft:dolphin",
+    "jcraft:horus",
+    "jcraft:shadow_the_world",
+    "jeffsgibbing:flesh_3",
+    "jeffsgibbing:flesh_2",
+    "minecraft:donkey",
+    "minecraft:piglin_brute",
+    "jcraft:twoh",
+    "jcraft:sptw",
+    "minecraft:bee",
+    "jcraft:d4c",
+    "minecraft:illusioner",
+    "jeffsgibbing:gib_head_entity",
+    "jcraft:dragons_dream",
+    "minecraft:mooshroom",
+    "jcraft:hierophant_green",
+    "minecraft:drowned",
+    "jcraft:darby_older",
+    "minecraft:axolotl",
+    "jeffsgibbing:gib_leg_entity",
+    "jcraft:gesnake",
+    "minecraft:parrot",
+    "jcraft:kingcrimson",
+    "minecraft:wandering_trader",
+    "jeffsgibbing:flesh_entity",
+    "minecraft:frog",
+    "jcraft:cream",
+    "hordes:drowned_player",
+    "minecraft:mule",
+    "jcraft:cinderella",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+    "minecraft:pufferfish",
+    "minecraft:fox",
+    "jcraft:the_sun",
+    "minecraft:chicken",
+    "minecraft:zombie",
+    "jcraft:osiris",
+    "jcraft:the_hand",
+    "jeffsgibbing:ribs",
+    "minecraft:hoglin",
+    "jcraft:playerclone",
+    "jcraft:gefrog",
+    "jcraft:diver_down",
+    "jcraft:kqbtd",
+    "hordes:husk_player",
+    "minecraft:polar_bear",
+    "minecraft:zombified_piglin",
+    "minecraft:pig",
+    "minecraft:turtle",
+    "minecraft:sheep",
+    "jcraft:metallica",
+    "jcraft:mandom",
+    "minecraft:goat",
+    "jcraft:whitesnake",
+    "jcraft:ger",
+    "minecraft:cod",
+    "jeffsgibbing:villager_ash",
+    "jeffsgibbing:skelington",
+    "jeffsgibbing:asmd_combo",
+    "minecraft:ravager",
+    "minecraft:cow",
+    "minecraft:salmon",
+    "jcraft:goo_goo_dolls",
+    "jcraft:starplatinum",
+    "jcraft:killerqueen",
+    "jcraft:aya_tsuji",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "jcraft:gebutterfly",
+    "minecraft:zoglin",
+    "jcraft:chariot_requiem",
+    "jcraft:purple_haze_distortion",
+    "jcraft:silverchariot",
+    "jcraft:gerscorpion",
+    "minecraft:bat",
+    "jcraft:purple_haze",
+    "jeffsgibbing:ash",
+    "minecraft:piglin",
+    "jcraft:sha",
+    "jcraft:thefool",
+    "minecraft:sniffer",
+    "minecraft:zombie_horse",
+    "minecraft:camel",
+    "jcraft:mr",
+    "minecraft:cat",
+    "minecraft:tropical_fish",
+    "jcraft:darby_younger",
+    "minecraft:ocelot",
+    "jeffsgibbing:bone_entity",
+    "minecraft:wolf",
+    "minecraft:panda",
+    "minecraft:zombie_villager",
+    "jcraft:atum"
+]

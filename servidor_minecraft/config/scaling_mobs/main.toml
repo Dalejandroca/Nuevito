@@ -1,7 +1,7 @@
 
 [Misc]
 	#If true, mob stats will increase exponentially
-	"Use Exponential Scaling" = false
+	"Use Exponential Scaling" = true
 	#After this day in the Minecraft world, all hostile mobs will be immune to burning in daylight
 	#Range: > 0
 	"Mobs Stop Burning on Day" = 7
@@ -41,7 +41,7 @@
 	"Speed Scale Rate" = 0.005
 	#The decimal amount of the mobs' base speed in the beginning
 	#Range: 0.0 ~ Infinity
-	"Mob Speed Base" = 0.8
+	"Mob Speed Base" = 0.4
 	#The maximum amount that hostile mobs' speed can scale to
 	#Range: 0.0 ~ Infinity
 	"Max Scaled Speed" = 1.5

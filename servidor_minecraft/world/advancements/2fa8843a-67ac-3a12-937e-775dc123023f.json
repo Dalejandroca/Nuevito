@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-08-01 04:53:00 +0000"
-    },
-    "done": false
-  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-08-01 04:52:59 +0000"
@@ -46,6 +40,54 @@
       "has_backpack": "2025-08-01 04:52:59 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-08-01 04:53:00 +0000"
+    },
+    "done": false
+  },
+  "jcraft:recipes/misc/coffin": {
+    "criteria": {
+      "has_light_grey_bed": "2025-08-01 05:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-01 05:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-01 05:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-01 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-01 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-01 05:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-01 05:01:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -1087,3 +1087,226 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [01Aug2025 05:00:17.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17914ms or 358 ticks behind
 [01Aug2025 05:00:19.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> as
 [01Aug2025 05:00:41.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:00:58.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:52049] logged in with entity id 5289 at (20.53306970219604, 80.9375, -64.2406384104492)
+[01Aug2025 05:00:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[01Aug2025 05:00:59.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97923b0a-25f4-3d49-b72c-ab5e412188be was loaded
+[01Aug2025 05:00:59.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [MandyXMaster687]
+[01Aug2025 05:00:59.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [MandyXMaster687]
+[01Aug2025 05:01:09.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.83.168.21:39281] logged in with entity id 5583 at (13.163652424096725, 78.0, 2.9602147100419938)
+[01Aug2025 05:01:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[01Aug2025 05:01:10.800] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[01Aug2025 05:01:10.801] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[01Aug2025 05:01:10.801] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[01Aug2025 05:01:20.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:36203] logged in with entity id 5816 at (22.6766832136256, 82.0, -42.031606964838446)
+[01Aug2025 05:01:20.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[01Aug2025 05:01:21.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 669ea7ec-30a7-31a3-8dbe-e7417b6d082f was loaded
+[01Aug2025 05:01:21.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [desgo]
+[01Aug2025 05:01:21.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [desgo]
+[01Aug2025 05:01:23.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@218d0287[id=<null>,name=keibel,properties={},legacy=false] (/127.94.238.91:53419) lost connection: Disconnected
+[01Aug2025 05:01:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:02:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> DIOS MIO QUE PERRA MIERDA
+[01Aug2025 05:02:08.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Suit Up]
+[01Aug2025 05:02:44.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:03:00.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@253d30d1[id=<null>,name=keibel,properties={},legacy=false] (/127.39.75.41:55661) lost connection: Disconnected
+[01Aug2025 05:03:26.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.036460748151512,2.0,-0.8918670163412301
+[01Aug2025 05:03:37.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17, l='ServerLevel[Mundo nuevo]', x=126.56, y=71.92, z=44.72] died, message: 'Villager was slain by Zombie'
+[01Aug2025 05:03:46.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Zombie
+[01Aug2025 05:03:49.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[01Aug2025 05:03:51.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [morax]
+[01Aug2025 05:03:51.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [morax]
+[01Aug2025 05:03:54.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/105, l='ServerLevel[Mundo nuevo]', x=172.80, y=65.94, z=32.20] died, message: 'Villager was slain by Zombie'
+[01Aug2025 05:03:54.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 8.423275794304297,1.15233518685055,5.323347475513982
+[01Aug2025 05:03:54.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! 7.377933861965026,0.49520087700592796,-6.966280484902484
+[01Aug2025 05:03:58.302] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [morax]
+[01Aug2025 05:03:58.303] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [morax]
+[01Aug2025 05:04:00.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! 0.7645618944675192,0.0,10.00714903043427
+[01Aug2025 05:04:06.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20, l='ServerLevel[Mundo nuevo]', x=153.30, y=74.00, z=61.88] died, message: 'Villager was slain by Zombie'
+[01Aug2025 05:04:06.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 6.329423772419283,0.7967356006687112,7.831099378453801
+[01Aug2025 05:04:06.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! 9.965823431615128,-1.0,0.9549406042558815
+[01Aug2025 05:04:10.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.94.238.91:42955] logged in with entity id 8837 at (-40.360489742843185, 81.7531999805212, -6.349255037396662)
+[01Aug2025 05:04:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[01Aug2025 05:04:11.445] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5fc8c9a4-383b-332b-b07e-6dd2df639581 was loaded
+[01Aug2025 05:04:11.445] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:04:11.445] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:04:15.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/176, l='ServerLevel[Mundo nuevo]', x=184.35, y=63.00, z=-7.68] died, message: 'Arms Dealer was slain by Zombie'
+[01Aug2025 05:04:15.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 1.8694848911830206,-0.20326439933128881,10.063570450584729
+[01Aug2025 05:04:16.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12523ms or 250 ticks behind
+[01Aug2025 05:04:17.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[01Aug2025 05:04:19.436] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[01Aug2025 05:04:19.437] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[01Aug2025 05:04:19.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie
+[01Aug2025 05:04:24.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! 6.255525963384656,-0.02442408821369213,8.165049867523905
+[01Aug2025 05:04:24.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 10.305825026981076,0.41999998688697815,-0.18399626509352274
+[01Aug2025 05:04:30.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.130321732089236,1.9983359791121416,3.7729633108421545
+[01Aug2025 05:04:30.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 0.21316769237200361,1.0013359791121417,-10.215656752698619
+[01Aug2025 05:04:35.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[01Aug2025 05:04:41.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[01Aug2025 05:04:41.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[01Aug2025 05:04:41.366] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 669ea7ec-30a7-31a3-8dbe-e7417b6d082f was unloaded
+[01Aug2025 05:04:41.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 6.523686195300286,-1.5625,7.763048418497388
+[01Aug2025 05:04:41.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! 1.095959969585472,-2.0,9.819612144718135
+[01Aug2025 05:04:46.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Zombie
+[01Aug2025 05:04:46.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[01Aug2025 05:04:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[01Aug2025 05:04:46.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[01Aug2025 05:04:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[01Aug2025 05:04:46.604] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:04:46.604] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:04:50.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['morax'/8620, l='ServerLevel[Mundo nuevo]', x=79.08, y=77.92, z=3.13] died: morax's Zombie was slain by Iron Golem
+[01Aug2025 05:04:50.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! 5.7912116685643635,2.024424088213692,-8.254632492377468
+[01Aug2025 05:04:55.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[01Aug2025 05:04:55.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[01Aug2025 05:04:55.834] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:04:55.834] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:04:58.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/45, l='ServerLevel[Mundo nuevo]', x=72.54, y=78.00, z=-21.45] died, message: 'Arms Dealer was slain by Zombie'
+[01Aug2025 05:05:01.154] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[01Aug2025 05:05:01.155] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[01Aug2025 05:05:05.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! 4.647470006402458,-0.9085455531246254,-9.309581372915432
+[01Aug2025 05:05:05.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15066ms or 301 ticks behind
+[01Aug2025 05:05:08.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -3.4382566131224976,-0.5475485219240284,-9.579557016555079
+[01Aug2025 05:05:12.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.603690629379791,0.25799910351527444,3.0925778706251315
+[01Aug2025 05:05:12.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -6.721808588819183,-0.604424101326714,7.562942507146822
+[01Aug2025 05:05:19.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -6.540360028737645,-1.1767592750642422,7.7457753846405915
+[01Aug2025 05:05:19.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.901705304479435,-1.0,-2.7229375408411443
+[01Aug2025 05:05:22.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 10.099168310976879,0.0,-0.9237894749089435
+[01Aug2025 05:05:26.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -8.010291577536798,1.252203340253729,5.986507951677154
+[01Aug2025 05:05:28.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 1.4007385789930993,-2.0,9.715265538789268
+[01Aug2025 05:05:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie
+[01Aug2025 05:05:34.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
+[01Aug2025 05:05:37.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 1.7788949088302104,0.0,9.953547527777694
+[01Aug2025 05:05:38.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:05:38.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:05:40.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Suit Up]
+[01Aug2025 05:05:44.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21, l='ServerLevel[Mundo nuevo]', x=12.21, y=80.00, z=-26.79] died, message: 'Villager was slain by Zombie'
+[01Aug2025 05:05:47.133] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:05:47.133] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:05:47.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -6.559659748544924,2.252203340253729,7.622335504554616
+[01Aug2025 05:05:47.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26803ms or 536 ticks behind
+[01Aug2025 05:05:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[01Aug2025 05:06:03.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[01Aug2025 05:06:03.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[01Aug2025 05:06:08.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! 10.035444483193125,-2.044812420399012,-1.6999315388369691
+[01Aug2025 05:06:11.756] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[01Aug2025 05:06:11.756] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[01Aug2025 05:06:16.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -9.04343552939294,-1.130906499714527,4.400413105372351
+[01Aug2025 05:06:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y eso q esta en facil
+[01Aug2025 05:06:20.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -10.0923404966843,0.7531999805212024,1.649292305347426
+[01Aug2025 05:06:20.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Aug2025 05:06:23.791] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[01Aug2025 05:06:29.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Dalej'/9930, l='ServerLevel[Mundo nuevo]', x=81.49, y=75.00, z=5.43] died: Dalej's Zombie died because of Iron Golem
+[01Aug2025 05:06:31.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! 0.24638681712772836,-1.376735613781733,-10.316952563922229
+[01Aug2025 05:06:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> miren
+[01Aug2025 05:06:33.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie
+[01Aug2025 05:06:37.053] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:06:37.053] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:06:40.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 7.383378340652342,-1.9031272476744903,6.737972744195758
+[01Aug2025 05:06:40.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37844ms or 756 ticks behind
+[01Aug2025 05:06:44.503] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:06:44.503] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:06:48.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 6.837079202634669,-4.0,6.207869500947264
+[01Aug2025 05:06:50.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.94371579505762,0.0,1.3696541885575897
+[01Aug2025 05:06:54.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.394229131519722,-1.9215999984741217,3.7799130914371517
+[01Aug2025 05:06:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -10.321300752147582,-1.0752008901189498,-0.02967836593087725
+[01Aug2025 05:07:00.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/252, l='ServerLevel[Mundo nuevo]', x=139.86, y=63.00, z=-88.41] died, message: 'Arms Dealer was slain by Zombie'
+[01Aug2025 05:07:02.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/309, l='ServerLevel[Mundo nuevo]', x=180.57, y=64.00, z=33.08] died, message: 'Farmer was slain by Zombie'
+[01Aug2025 05:07:03.017] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/164, l='ServerLevel[Mundo nuevo]', x=115.10, y=69.00, z=-27.29] died, message: 'Mason was slain by Zombie'
+[01Aug2025 05:07:05.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8351b3f[id=<null>,name=Asriel,properties={},legacy=false] (/127.83.168.21:40819) lost connection: Disconnected
+[01Aug2025 05:07:06.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10967ms or 219 ticks behind
+[01Aug2025 05:07:09.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:56087] logged in with entity id 10624 at (81.50772532799107, 75.0, 3.5874672857294287)
+[01Aug2025 05:07:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[01Aug2025 05:07:09.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo has made the advancement [Suit Up]
+[01Aug2025 05:07:09.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 669ea7ec-30a7-31a3-8dbe-e7417b6d082f was loaded
+[01Aug2025 05:07:09.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [desgo]
+[01Aug2025 05:07:09.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [desgo]
+[01Aug2025 05:07:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[01Aug2025 05:07:12.982] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[01Aug2025 05:07:12.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[01Aug2025 05:07:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie
+[01Aug2025 05:07:18.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 moved too quickly! 3.8262457044614138,1.0,9.229099258827596
+[01Aug2025 05:07:18.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -1.6463237338714194,-9.753199980521202,-1.7020217554324089
+[01Aug2025 05:07:18.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
+[01Aug2025 05:07:20.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:07:20.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:07:24.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Monster Hunter]
+[01Aug2025 05:07:25.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3817ms or 76 ticks behind
+[01Aug2025 05:07:27.716] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:07:27.717] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:07:35.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie Villager
+[01Aug2025 05:07:36.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Acquire Hardware]
+[01Aug2025 05:07:42.450] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:07:42.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:07:44.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74978745[id=<null>,name=Asriel,properties={},legacy=false] (/127.229.4.117:40359) lost connection: Disconnected
+[01Aug2025 05:07:49.905] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:07:49.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:07:52.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie
+[01Aug2025 05:07:54.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[01Aug2025 05:08:02.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:08:02.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:08:10.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:08:10.255] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:08:19.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 moved too quickly! 9.691567594710648,-1.5061351021062137,2.835083754428986
+[01Aug2025 05:08:19.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[01Aug2025 05:08:24.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie Villager
+[01Aug2025 05:08:26.718] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:08:26.718] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:08:34.210] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:08:34.210] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:08:37.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> quien es morax
+[01Aug2025 05:08:39.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no has visto un cuerpo por aqui
+[01Aug2025 05:08:41.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie
+[01Aug2025 05:08:41.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[01Aug2025 05:08:42.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eduardo?
+[01Aug2025 05:08:43.654] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:08:43.654] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:08:44.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> eduardo
+[01Aug2025 05:08:46.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[01Aug2025 05:08:51.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> aaaaa
+[01Aug2025 05:08:51.110] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:08:51.110] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:08:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> asere
+[01Aug2025 05:08:59.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[01Aug2025 05:09:03.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -2.19189191817744,-0.3739040364667261,-9.964429527368893
+[01Aug2025 05:09:04.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Zombie Villager
+[01Aug2025 05:09:06.569] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:09:06.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:09:10.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> les parece ponerlo en pacifico las primeras 3 noches?
+[01Aug2025 05:09:13.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> CONEXIOOONNNNNNNN
+[01Aug2025 05:09:16.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [keibel]
+[01Aug2025 05:09:16.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [keibel]
+[01Aug2025 05:09:17.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[01Aug2025 05:09:17.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me refiero a noches del juego
+[01Aug2025 05:09:30.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ok
+[01Aug2025 05:09:34.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me sirve
+[01Aug2025 05:09:35.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> porfavor
+[01Aug2025 05:09:39.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> Eduardo tu tenias un casco de hierro?
+[01Aug2025 05:09:44.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[01Aug2025 05:09:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[01Aug2025 05:09:44.206] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97923b0a-25f4-3d49-b72c-ab5e412188be was unloaded
+[01Aug2025 05:09:44.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[01Aug2025 05:09:48.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> parece the walking dead
+[01Aug2025 05:09:55.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[01Aug2025 05:09:55.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ifficulty pacefoul<--[HERE]
+[01Aug2025 05:10:03.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=79, z=-63} BlockPos{x=-43, y=77, z=-62}
+[01Aug2025 05:10:04.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dalej a server operator
+[01Aug2025 05:10:11.932] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7641, y=-56, z=-41}
+[01Aug2025 05:10:11.933] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7640, y=-56, z=-41}
+[01Aug2025 05:10:11.934] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7639, y=-56, z=-41}
+[01Aug2025 05:10:12.671] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7641, y=-56, z=-41}
+[01Aug2025 05:10:12.671] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7640, y=-56, z=-41}
+[01Aug2025 05:10:12.672] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7639, y=-56, z=-41}
+[01Aug2025 05:10:13.011] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7641, y=-56, z=-41}
+[01Aug2025 05:10:13.011] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7640, y=-56, z=-41}
+[01Aug2025 05:10:13.011] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7639, y=-56, z=-41}
+[01Aug2025 05:10:13.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: The difficulty has been set to Peaceful]
+[01Aug2025 05:10:24.796] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f149a06[id=<null>,name=Asriel,properties={},legacy=false] (/127.229.4.117:41839) lost connection: Disconnected
+[01Aug2025 05:10:28.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Made Dalej no longer a server operator]
+[01Aug2025 05:10:29.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=77, z=-100} BlockPos{x=-50, y=76, z=-99}
+[01Aug2025 05:10:29.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=77, z=-100} BlockPos{x=-50, y=76, z=-99}
+[01Aug2025 05:10:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya esta
+[01Aug2025 05:10:40.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=78, z=-99} BlockPos{x=-45, y=76, z=-99}
+[01Aug2025 05:10:40.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=78, z=-99} BlockPos{x=-45, y=76, z=-99}
+[01Aug2025 05:10:40.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=78, z=-99} BlockPos{x=-45, y=76, z=-99}
+[01Aug2025 05:10:40.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=78, z=-99} BlockPos{x=-45, y=76, z=-99}
+[01Aug2025 05:10:40.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=78, z=-99} BlockPos{x=-45, y=76, z=-99}
+[01Aug2025 05:10:40.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=78, z=-99} BlockPos{x=-45, y=76, z=-99}
+[01Aug2025 05:11:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> mira esto david

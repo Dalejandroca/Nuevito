@@ -17,7 +17,31 @@
     },
     "done": true
   },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-01 04:55:40 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-08-01 04:55:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-01 04:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-08-01 04:55:41 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-08-01 04:55:41 +0000"
     },
@@ -29,27 +53,81 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "always": "2025-08-01 04:55:40 +0000"
+      "iron_leggings": "2025-08-01 05:07:09 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "minecraft:plains": "2025-08-01 04:55:41 +0000"
+      "has_iron_leggings": "2025-08-01 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-01 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-08-01 05:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-01 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-01 05:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-01 05:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-01 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-01 05:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-01 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-01 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-01 05:07:19 +0000"
     },
     "done": false
   },
-  "parcool:grant_parcool_guide": {
+  "minecraft:story/root": {
     "criteria": {
-      "tick": "2025-08-01 04:55:40 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-08-01 04:55:41 +0000"
+      "crafting_table": "2025-08-01 05:07:09 +0000"
     },
     "done": true
   },

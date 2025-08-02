@@ -3321,3 +3321,437 @@ java.lang.NullPointerException: null
 [02Aug2025 05:12:54.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.200597633428174,-6.9950108496641406E-6,11.12816488731616
 [02Aug2025 05:12:54.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.585234958329181,-7.1840651969523606E-6,11.41878028685872
 [02Aug2025 05:12:54.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.97231393475954,-7.373119544240581E-6,11.708801686608979
+[02Aug2025 05:12:56.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.91244656024179,-3.7810869457644003E-6,6.184717637318926
+[02Aug2025 05:12:56.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.298170901561491,-3.97014129305262E-6,6.501924684853947
+[02Aug2025 05:12:56.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.683599730717106,-4.15919564034084E-6,6.818644133185018
+[02Aug2025 05:12:56.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.06891221259292,-4.34824998762906E-6,7.1346149337052225
+[02Aug2025 05:12:56.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.454250968501299,-4.53730433491728E-6,7.449577139526042
+[02Aug2025 05:12:56.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.839768762664221,-4.7263586822055E-6,7.763308241352291
+[02Aug2025 05:12:56.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.22558078646415,-4.91541302949372E-6,8.075587010349153
+[02Aug2025 05:12:56.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.611789178490369,-5.10446737678194E-6,8.386212381506851
+[02Aug2025 05:12:56.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.998482711285646,-5.29352172407016E-6,8.695003505210508
+[02Aug2025 05:12:56.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.385736778989326,-5.4825760713583804E-6,9.00179959350956
+[02Aug2025 05:12:56.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.77361566913953,-5.6716304186466004E-6,9.306456740136866
+[02Aug2025 05:12:56.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.162177064223044,-5.8606847659348205E-6,9.608841587648783
+[02Aug2025 05:12:56.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.551445218678282,-6.0497391132230405E-6,9.908819675422421
+[02Aug2025 05:12:56.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.941458705026207,-6.2387934605112605E-6,10.206291072984499
+[02Aug2025 05:12:56.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -13.332226022057739,-6.4278478077994805E-6,10.50114973908893
+[02Aug2025 05:12:56.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -13.723775657726208,-6.6169021550877005E-6,10.793315740457956
+[02Aug2025 05:12:56.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.116105550617988,-6.8059565023759205E-6,11.08270338044315
+[02Aug2025 05:12:56.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.509231289469312,-6.9950108496641406E-6,11.36925633770565
+[02Aug2025 05:12:56.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.903140109562912,-7.1840651969523606E-6,11.652909174204751
+[02Aug2025 05:12:56.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -15.297817620667445,-7.373119544240581E-6,11.933603229532196
+[02Aug2025 05:12:56.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -15.693063060820066,-7.562173891528801E-6,12.211573362408046
+[02Aug2025 05:12:56.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -16.08835309099527,-7.75122823881702E-6,12.487562427317158
+[02Aug2025 05:12:56.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -16.482946567850774,-7.94028258610524E-6,12.762641816254273
+[02Aug2025 05:12:56.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.349889481679156,-4.53730433491728E-6,7.170475731431338
+[02Aug2025 05:12:56.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.741253373542918,-4.7263586822055E-6,7.446308060359115
+[02Aug2025 05:12:56.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.130524763774815,-4.91541302949372E-6,7.723134477304427
+[02Aug2025 05:12:58.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.032520090580078,-4.15919564034084E-6,6.0665327681406325
+[02Aug2025 05:12:58.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.382517462763474,-4.34824998762906E-6,6.326296119540189
+[02Aug2025 05:12:58.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.729429402857136,-4.53730433491728E-6,6.587359047369716
+[02Aug2025 05:12:58.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.07332572933592,-4.7263586822055E-6,6.8496570006117565
+[02Aug2025 05:13:00.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.68386329446264,-4.91541302949372E-6,6.67164387691102
+[02Aug2025 05:13:00.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.965614006395697,-5.10446737678194E-6,6.937495335623453
+[02Aug2025 05:13:00.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.245505441749458,-5.29352172407016E-6,7.204664003910608
+[02Aug2025 05:13:00.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.523474916958833,-5.4825760713583804E-6,7.4732195038960185
+[02Aug2025 05:13:04.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -6.041039265950701,-4.7263586822055E-6,8.018886140253642
+[02Aug2025 05:13:04.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -6.231407942468195,-4.91541302949372E-6,8.387834345911813
+[02Aug2025 05:13:04.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -6.416981397569316,-5.10446737678194E-6,8.760488943770355
+[02Aug2025 05:13:04.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -6.597711509877627,-5.29352172407016E-6,9.136834129086338
+[02Aug2025 05:13:04.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -6.773548073055167,-5.4825760713583804E-6,9.516823802689856
+[02Aug2025 05:13:04.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -6.944444403935336,-5.6716304186466004E-6,9.900412891991806
+[02Aug2025 05:13:04.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.11035804345596,-5.8606847659348205E-6,10.2875569740213
+[02Aug2025 05:13:04.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.2712568710787195,-6.0497391132230405E-6,10.678210206800657
+[02Aug2025 05:13:04.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.427114078370096,-6.2387934605112605E-6,11.07232711591692
+[02Aug2025 05:13:04.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.577895433119977,-6.4278478077994805E-6,11.4698366791755
+[02Aug2025 05:13:04.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.723580925231602,-6.6169021550877005E-6,11.870697817699636
+[02Aug2025 05:13:04.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.864150618680526,-6.8059565023759205E-6,12.274841359327752
+[02Aug2025 05:13:04.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.999599835955564,-6.9950108496641406E-6,12.682227745470982
+[02Aug2025 05:13:04.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.129918470766654,-7.1840651969523606E-6,13.092790744477014
+[02Aug2025 05:13:04.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.255099708251919,-7.373119544240581E-6,13.506467199082806
+[02Aug2025 05:13:04.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.375147081040382,-7.562173891528801E-6,13.923195188492912
+[02Aug2025 05:13:04.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.490068897302194,-7.75122823881702E-6,14.342915253019413
+[02Aug2025 05:13:04.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.59986842964679,-7.94028258610524E-6,14.765543172918484
+[02Aug2025 05:13:04.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.704564122183172,-8.12933693339346E-6,15.191026401873472
+[02Aug2025 05:13:04.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.804172138091644,-8.31839128068168E-6,15.619286564503767
+[02Aug2025 05:13:04.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.89871318087313,-8.5074456279699E-6,16.0502496395479
+[02Aug2025 05:13:04.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.988223514231152,-8.69649997525812E-6,16.483872690817776
+[02Aug2025 05:13:04.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.072736042128724,-8.88555432254634E-6,16.920086525197945
+[02Aug2025 05:13:04.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.15228194620505,-9.07460866983456E-6,17.358797896033053
+[02Aug2025 05:13:04.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[02Aug2025 05:13:04.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[02Aug2025 05:13:04.697] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[02Aug2025 05:13:04.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.3809671233494782,-4.7263586822055E-6,10.146260512466199
+[02Aug2025 05:13:04.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.4507200402985063,-4.91541302949372E-6,10.58979111089792
+[02Aug2025 05:13:04.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.515647441581393,-5.10446737678194E-6,11.035621884813793
+[02Aug2025 05:13:04.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.5758004203931364,-5.29352172407016E-6,11.483676918128907
+[02Aug2025 05:13:04.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.631240884213014,-5.4825760713583804E-6,11.933913278227863
+[02Aug2025 05:13:04.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.6820348408269297,-5.6716304186466004E-6,12.386261710435605
+[02Aug2025 05:13:06.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.728248477656109,-5.8606847659348205E-6,12.840629458386275
+[02Aug2025 05:13:06.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.7699521190515384,-6.0497391132230405E-6,13.296959204743132
+[02Aug2025 05:13:13.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.8.14.241:58465] logged in with entity id 80448 at (364.83798264843347, 77.921142578125, -167.7582135122119)
+[02Aug2025 05:13:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[02Aug2025 05:13:15.366] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[02Aug2025 05:13:15.366] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:13:15.366] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:13:25.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! 0.0,-10.612022956862141,0.0
+[02Aug2025 05:13:27.635] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:13:27.635] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:13:38.534] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:13:38.535] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:13:46.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49685ms or 993 ticks behind
+[02Aug2025 05:13:51.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -1.8906532857654952,-5.2935219230221264E-6,9.843178415664624
+[02Aug2025 05:13:51.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -2.1620784657498007,-5.482576277415774E-6,10.183321165735691
+[02Aug2025 05:13:51.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -2.4456486865018405,-5.671630631809421E-6,10.51564752606734
+[02Aug2025 05:13:51.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -2.740854260749643,-5.8606849862030685E-6,10.839844914176183
+[02Aug2025 05:13:51.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.046985721060821,-6.049739340596716E-6,11.15594214555668
+[02Aug2025 05:13:51.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -3.3631907011278486,-6.238793694990363E-6,11.464186543911723
+[02Aug2025 05:13:54.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.25191851566251,1.5251285911134076,5.702580166637517
+[02Aug2025 05:13:54.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.675591749008163,1.5414992394705038,5.8907770102456425
+[02Aug2025 05:13:54.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.09975510821721,1.556567454225224,6.078339815924011
+[02Aug2025 05:13:54.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.524099651392078,1.5704258832456262,6.265982926867707
+[02Aug2025 05:13:54.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.948426643294908,1.5831620466541878,6.454152758996372
+[02Aug2025 05:13:54.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.372620327948425,1.5948584233924592,6.643097923886245
+[02Aug2025 05:13:55.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya
+[02Aug2025 05:13:57.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.399638409964894,0.0010336456580120057,3.7090519174121823
+[02Aug2025 05:13:57.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.83630954743353,0.0010470374453461773,3.9241799478863015
+[02Aug2025 05:13:57.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.27233501004082,0.0010591163960356198,4.1412267113302335
+[02Aug2025 05:13:57.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.707771065432155,0.001070008681082868,4.359974337031133
+[02Aug2025 05:13:57.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.142706277222828,0.001079828427023699,4.58021773481039
+[02Aug2025 05:13:57.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.577201990711103,0.0010886788580108941,4.80174924925285
+[02Aug2025 05:13:57.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.011320473937985,0.0010966533298955028,5.024370961927417
+[02Aug2025 05:13:57.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.445123199479156,0.001103836266636904,5.247896913484539
+[02Aug2025 05:13:57.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.878665478681057,0.0011103040083781934,5.472162503579597
+[02Aug2025 05:14:00.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.877216250929337,1.6916932423782782E-6,4.678787191729839
+[02Aug2025 05:14:00.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.290410289598356,1.5740244379003343E-6,4.904928333553116
+[02Aug2025 05:14:00.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.70269285322479,1.4493157038941717E-6,5.131298935041983
+[02Aug2025 05:14:00.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.114082436504418,1.3182598905814302E-6,5.357898603060434
+[02Aug2025 05:14:00.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.524570660686777,1.1814818208222277E-6,5.5847143911107935
+[02Aug2025 05:14:00.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.93417618550967,1.0395449407951673E-6,5.81174646766695
+[02Aug2025 05:14:00.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.342892782516856,8.929573596105911E-7,6.038978736544792
+[02Aug2025 05:14:00.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.750716065504264,7.421772494353718E-7,6.266394677425282
+[02Aug2025 05:14:00.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.15766995970148,5.876177482377898E-7,6.493988192191225
+[02Aug2025 05:14:00.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.563752556452926,4.296513651524947E-7,6.72173802891848
+[02Aug2025 05:14:00.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.96898568975638,2.686139595198256E-7,6.949641155468029
+[02Aug2025 05:14:00.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -13.373365549090693,1.0480837886461813E-7,7.177678915007817
+[02Aug2025 05:14:00.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -13.776916207803367,-6.149234366148448E-8,7.405843554892584
+[02Aug2025 05:14:00.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.179637629477611,-2.3004206184396025E-7,7.634109002398262
+[02Aug2025 05:14:00.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.58155489418408,-4.006188589755766E-7,7.862464797942451
+[02Aug2025 05:14:00.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.982691211594329,-5.730226604327981E-7,8.090900468984486
+[02Aug2025 05:14:00.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -15.383045532733433,-7.470731162584343E-7,8.31938756074355
+[02Aug2025 05:14:00.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -15.782643692180955,-9.226076400636885E-7,8.54791031917459
+[02Aug2025 05:14:00.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -16.181511236916208,-1.0994796753038827E-6,8.776450367897368
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.110146734470163,3.983806848850691E-6,-5.671464605439823
+[02Aug2025 05:14:01.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 10.109516111304288,3.983225170145488E-6,-5.6700587541954235
+[02Aug2025 05:14:01.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 9.705826342003832,3.798934784526864E-6,-5.455344503686732
+[02Aug2025 05:14:01.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 9.301608889307943,3.614172271682037E-6,-5.24137442229096
+[02Aug2025 05:14:01.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 8.896881254574396,3.4289843853230195E-6,-5.028746180471103
+[02Aug2025 05:14:04.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.144244749169218,-4.340864464325023E-6,4.823432339597744
+[02Aug2025 05:14:04.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.54432231431798,-4.529846236778212E-6,5.02994923735281
+[02Aug2025 05:14:04.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.945631666324175,0.003961526498343915,5.235742581826713
+[02Aug2025 05:14:04.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.348610044425413,0.015013050838746267,5.440958714252957
+[02Aug2025 05:14:04.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.753192254693602,0.03554286566165388,5.6465061909513
+[02Aug2025 05:14:04.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.15895397492801,0.06731557625695928,5.853883211795079
+[02Aug2025 05:14:04.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.5657704279555,0.11166439563589847,6.063844405588142
+[02Aug2025 05:14:04.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.973595625593532,0.16951189500450425,6.27679533530879
+[02Aug2025 05:14:04.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.382481208948889,0.2414413372958819,6.492916827146203
+[02Aug2025 05:14:04.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -12.792521387160377,0.3277580023405591,6.712225179046072
+[02Aug2025 05:14:04.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -13.203834734202701,0.4285415902640466,6.934623141862858
+[02Aug2025 05:14:04.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -13.616551894434167,0.5436907976892371,7.159935400037156
+[02Aug2025 05:14:04.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.030405603697318,0.6689984942250788,7.387565978876594
+[02Aug2025 05:14:04.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.445195252881263,0.8009912023348988,7.617020804018779
+[02Aug2025 05:14:04.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -14.860733676174334,0.9368207378994526,7.847858419493406
+[02Aug2025 05:14:04.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -15.27687069382489,1.074170481609002,8.079692721879084
+[02Aug2025 05:14:04.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -15.69351108510051,1.2111744538783427,8.312202678568212
+[02Aug2025 05:14:04.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -16.11055956754842,1.346347552889,8.54509418991357
+[02Aug2025 05:14:04.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -16.52796810217251,1.4785255117921992,8.778125407029393
+[02Aug2025 05:14:04.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -16.94525362036535,1.6067912021624409,9.01190179834218
+[02Aug2025 05:14:04.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -17.361761553292013,1.7304419858442799,9.247299930547186
+[02Aug2025 05:14:04.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -17.777181338489356,1.849020442202189,9.484701138126695
+[02Aug2025 05:14:04.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.446424679073743,1.9622188455967802,5.108289981036364
+[02Aug2025 05:14:04.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.859196247603734,2.069838193682216,5.3501514275069155
+[02Aug2025 05:14:04.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.270551905534603,2.1717917876961366,5.594221669596067
+[02Aug2025 05:14:04.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.680528746204686,2.2680701447226994,5.840396376276132
+[02Aug2025 05:14:04.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.089203870508015,2.358729248868599,6.088525913795436
+[02Aug2025 05:14:04.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.496683904437589,2.443876978682937,6.338430220030176
+[02Aug2025 05:14:04.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.903093075734716,2.5236615905521234,6.5899155854329905
+[02Aug2025 05:14:11.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -7.810652221371612,0.4321198130065085,6.380451700248827
+[02Aug2025 05:14:11.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.204376994414588,0.4385686606150898,6.6467519663654
+[02Aug2025 05:14:11.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -8.60156395789275,0.44443387460425754,6.907113998103412
+[02Aug2025 05:14:11.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.002142275015643,0.44976703357656334,7.161475896184953
+[02Aug2025 05:14:11.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.405988183487693,0.45461527226873955,7.409934770059309
+[02Aug2025 05:14:11.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.812929267549265,0.4590216635780564,7.652686878662266
+[02Aug2025 05:14:11.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.22292207880804,0.4630251557194356,7.889673032456599
+[02Aug2025 05:14:11.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.636124096627157,0.4666613439080862,8.12031984857039
+[02Aug2025 05:14:11.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.052841955844798,0.46996280099010335,8.343708076128038
+[02Aug2025 05:14:11.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.473293798158466,0.4729600056139134,8.558996585173077
+[02Aug2025 05:14:11.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.897491254759927,0.47568063310863806,8.765752474704101
+[02Aug2025 05:14:12.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10914ms or 218 ticks behind
+[02Aug2025 05:14:14.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.537649250804265,1.9390763760772813,3.3888615923980154
+[02Aug2025 05:14:14.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.018798774300336,2.1637549534769676,3.5271022856303773
+[02Aug2025 05:14:14.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.501395416014105,2.397730320870167,3.665035711096536
+[02Aug2025 05:14:14.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.985368569039878,2.6404365311435924,3.8025765502314925
+[02Aug2025 05:14:14.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.470659391407196,2.8913221954411767,3.9395978409245913
+[02Aug2025 05:14:14.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -11.95718856022549,3.1498540126805494,4.075942916448099
+[02Aug2025 05:14:15.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -9.787451474239504,2.5922896143209613,1.917458166076372
+[02Aug2025 05:14:15.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! -10.236779144767013,2.6391747469562006,1.9817970158967455
+[02Aug2025 05:14:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> jijijijiç
+[02Aug2025 05:14:30.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[02Aug2025 05:14:30.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[02Aug2025 05:14:30.977] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[02Aug2025 05:14:38.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:15:21.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.5.205.70:43523] logged in with entity id 82321 at (99.55039305331128, 78.05052947998047, -81.33392846807716)
+[02Aug2025 05:15:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[02Aug2025 05:15:22.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[02Aug2025 05:15:22.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:15:22.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:15:32.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:15:32.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:15:39.930] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:15:39.930] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:15:47.424] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:15:47.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:15:51.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[02Aug2025 05:15:51.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[02Aug2025 05:15:51.224] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[02Aug2025 05:15:59.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[02Aug2025 05:16:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> quien es el q esta en un poste
+[02Aug2025 05:16:10.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[02Aug2025 05:16:16.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 05:16:16.452] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 05:16:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> yo estoy arriba de un pa arriba de piedra
+[02Aug2025 05:16:27.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13343ms or 266 ticks behind
+[02Aug2025 05:16:43.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.954085531468834,-2.6754387601295093,-0.6029832274498226
+[02Aug2025 05:16:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a
+[02Aug2025 05:16:47.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -8.47571149809707,-4.166109260938214,3.9012255870005923
+[02Aug2025 05:16:47.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
+[02Aug2025 05:16:50.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -5.437308931006726,-6.233632006042484,5.732274973144747
+[02Aug2025 05:16:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo estoy en una torre cerca tuyo
+[02Aug2025 05:16:54.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 2.2657071065308685,0.7684762024129839,9.783574695398414
+[02Aug2025 05:17:14.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -5.382594431018646,2.7480000262260376,8.0
+[02Aug2025 05:17:21.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -6.0267737053117685,2.2239607970540334,7.861160635715947
+[02Aug2025 05:17:25.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -7.745939466633956,-0.3693736602695026,6.7539933467673166
+[02Aug2025 05:17:27.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -7.458286061049165,0.2247629905309907,7.179633935525118
+[02Aug2025 05:17:28.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.5.205.70:36379] logged in with entity id 84689 at (99.55039305331128, 78.05052947998047, -81.33392846807716)
+[02Aug2025 05:17:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[02Aug2025 05:17:28.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25893ms or 517 ticks behind
+[02Aug2025 05:17:29.830] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[02Aug2025 05:17:29.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:17:29.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:17:34.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! 0.0,-10.806526110008988,0.0
+[02Aug2025 05:17:36.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 1.704997410060571,-1.1767592750642422,10.088052622822346
+[02Aug2025 05:17:39.137] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:17:39.137] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:17:41.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 10.027794381988542,1.0013359791121417,-0.8912440600836362
+[02Aug2025 05:17:43.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:17:47.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 3.324565692343242,1.0013359791121417,-9.47303690968468
+[02Aug2025 05:17:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> DIOS MIO QUIEN PINGA USO A GER CCONMIGO RECONTRA COJONE
+[02Aug2025 05:17:51.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 0.3008464065339922,0.2468000194787976,-10.174622866205567
+[02Aug2025 05:17:53.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.131151844990995,0.0,0.9530016467042515
+[02Aug2025 05:18:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -6.979617673215898,0.8322033533667508,7.349360137058085
+[02Aug2025 05:18:03.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -3.428181774852135,-1.2491870787446828,9.584584846140444
+[02Aug2025 05:18:05.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no puedo salir del puto bucle de mierd
+[02Aug2025 05:18:18.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35432ms or 708 ticks behind
+[02Aug2025 05:18:19.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[02Aug2025 05:18:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david cuando pueda salir te voy a encontrar
+[02Aug2025 05:18:23.572] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 05:18:23.572] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 05:18:31.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y te voy a comprar un puto servidor
+[02Aug2025 05:18:36.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -7.752227086242,-0.2522033402537289,6.435806761970937
+[02Aug2025 05:18:36.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> CON EL QUE SE PUEDA JUGAR
+[02Aug2025 05:18:38.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -7.591832304268564,1.0244240882136921,6.541269214798
+[02Aug2025 05:18:40.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:18:45.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -6.2007265475483315,-1.4554677395850177,7.940846549860575
+[02Aug2025 05:18:47.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14228ms or 284 ticks behind
+[02Aug2025 05:18:52.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17, l='ServerLevel[Mundo nuevo]', x=124.42, y=64.00, z=26.01] died, message: 'Farmer was slain by Zombie'
+[02Aug2025 05:18:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Zombie
+[02Aug2025 05:19:02.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:19:09.103] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:19:09.103] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:19:16.576] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:19:16.576] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:19:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> Y ME MANDA PAL PUTO OCEANO
+[02Aug2025 05:19:27.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> YO NO SOY EMPORIO NI PINGA
+[02Aug2025 05:19:36.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[02Aug2025 05:19:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ariel
+[02Aug2025 05:19:43.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -5.941564576447149,0.49520087700592796,8.145553521206267
+[02Aug2025 05:19:43.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya voy a buscarte
+[02Aug2025 05:19:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dime mi amor
+[02Aug2025 05:19:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> voy nadando
+[02Aug2025 05:19:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie Horse
+[02Aug2025 05:19:58.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 10.00678465335946,-1.5783625645639887,1.6491997549954789
+[02Aug2025 05:19:58.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q si no me saca
+[02Aug2025 05:19:58.655] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 05:19:58.656] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 05:20:00.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8889ms or 177 ticks behind
+[02Aug2025 05:20:05.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -1.7612282993109147,-10.053672444406999,2.2276212632957595
+[02Aug2025 05:20:05.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 9.930435337259965,-2.6945615482487852,-1.0519793489222025
+[02Aug2025 05:20:10.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 7.5010650472942615,-1.3580345955794257,-7.116117049243655
+[02Aug2025 05:20:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> there's a starmaaaaan waiting in the sky
+[02Aug2025 05:20:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Zombie
+[02Aug2025 05:20:16.978] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [morax]
+[02Aug2025 05:20:16.978] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [morax]
+[02Aug2025 05:20:19.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> bueno
+[02Aug2025 05:20:22.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/6, l='ServerLevel[Mundo nuevo]', x=78.87, y=73.00, z=29.84] died, message: 'Arms Dealer was slain by Zombie'
+[02Aug2025 05:20:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> starman na
+[02Aug2025 05:20:26.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> si no puedo
+[02Aug2025 05:20:27.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga el lagç
+[02Aug2025 05:20:30.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16, l='ServerLevel[Mundo nuevo]', x=67.57, y=71.00, z=47.34] died, message: 'Villager was slain by Zombie Villager'
+[02Aug2025 05:20:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david voy a vender mi celular y mi play pa q no haya lag
+[02Aug2025 05:20:48.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> o por la madre de dios
+[02Aug2025 05:20:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> otia
+[02Aug2025 05:21:00.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> un zombie con stand
+[02Aug2025 05:21:03.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -2.63495399237695,0.17081290814229533,10.11849573388308
+[02Aug2025 05:21:03.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[02Aug2025 05:21:07.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -1.5293455177022395,0.8291870918577047,10.039986388715278
+[02Aug2025 05:21:21.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
+[02Aug2025 05:21:30.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -4.327362761891322,8.733928920599311,3.4987711245635182
+[02Aug2025 05:21:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> PINGA RINGO RODAGAIN
+[02Aug2025 05:21:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Drowned
+[02Aug2025 05:21:48.518] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:21:48.518] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:21:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> david esta haciendo mewing ahi
+[02Aug2025 05:21:54.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17551ms or 351 ticks behind
+[02Aug2025 05:21:58.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[02Aug2025 05:22:00.487] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 05:22:00.488] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 05:22:06.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -9.580853336665484,0.0,3.2201175574478214
+[02Aug2025 05:22:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ME RESINGO ES LA MADRE NO PUEDO NI JUGAR
+[02Aug2025 05:22:13.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
+[02Aug2025 05:22:23.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y hoy que el juego me va a 30 fps
+[02Aug2025 05:22:26.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> los voy a singar
+[02Aug2025 05:22:40.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/36, l='ServerLevel[Mundo nuevo]', x=100.39, y=67.92, z=-76.38] died, message: 'Arms Dealer was slain by Zombie'
+[02Aug2025 05:22:53.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -7.915915805956985,-1.376735613781733,6.49138783514033
+[02Aug2025 05:22:56.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -10.095720528483184,-0.008386955615122815,2.2853780321053137
+[02Aug2025 05:22:56.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[02Aug2025 05:23:01.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -10.031655309727569,0.2249698078971889,2.2708755264989122
+[02Aug2025 05:23:14.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[02Aug2025 05:23:35.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel drowned
+[02Aug2025 05:23:41.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[02Aug2025 05:23:51.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> 卐卐卐卐卐卐卐卐卐卐卐
+[02Aug2025 05:24:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[02Aug2025 05:24:03.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[02Aug2025 05:24:04.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 05:24:04.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 05:25:52.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.778797836973567,1.8434307932223675,-9.400662435333622
+[02Aug2025 05:25:52.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.8961781150254353,1.8992465057821875,-10.021065411328618
+[02Aug2025 05:25:52.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.003224485626518,1.9506310761924794,-10.6432494156096
+[02Aug2025 05:25:52.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.100743241881702,1.9979083838303069,-11.26702071781477
+[02Aug2025 05:25:52.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.189521441196547,2.041382132752375,-11.892181285630745
+[02Aug2025 05:25:52.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.270317485395466,2.081336651746227,-12.518560252919352
+[02Aug2025 05:25:52.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.3438515714114345,2.118037727505765,-13.146011222153136
+[02Aug2025 05:25:52.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.410801566186109,2.151733457790627,-13.774409311388592
+[02Aug2025 05:25:52.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.471805876903076,2.182655113715228,-14.403648085444257
+[02Aug2025 05:25:52.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.527909990321447,2.2110178435132752,-15.033615368283023
+[02Aug2025 05:25:52.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.580879805597931,2.2370203059858937,-15.664171830532407
+[02Aug2025 05:25:52.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.6325202431061,2.260849197410522,-16.29517863669034
+[02Aug2025 05:25:52.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.684164363185971,2.2826775394864285,-16.9265212162425
+[02Aug2025 05:25:52.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.736778752245883,2.302665573407822,-17.558105814592473
+[02Aug2025 05:25:52.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.791047110390309,2.320961596062048,-18.18985686952977
+[02Aug2025 05:25:52.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.847428544046494,2.3377027516652475,-18.821715499025217
+[02Aug2025 05:25:52.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.906210764654261,2.3530157778278067,-19.453637391559745
+[02Aug2025 05:25:52.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 4.967555082637915,2.3670177109046193,-20.08559044620521
+[02Aug2025 05:25:52.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 5.031528184811918,2.379816555067819,-20.71755292551539
+[02Aug2025 05:25:52.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 5.098123753203538,2.3915119115694097,-21.349512171992693
+[02Aug2025 05:25:52.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 5.1672891321664025,2.4021955745273686,-21.981462109276976
+[02Aug2025 05:25:52.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 5.238940341815521,2.4119520891657373,-22.6134018568816
+[02Aug2025 05:25:52.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.6626821843101567,0.6380201604309548,-14.46303968438712
+[02Aug2025 05:25:52.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.7389583038427077,0.646149613733769,-15.094974267065197
+[02Aug2025 05:25:52.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.8173565359046364,0.6535671578212856,-15.72691896369209
+[02Aug2025 05:25:52.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.8977447888947268,0.6603332847469403,-16.358884722812192
+[02Aug2025 05:25:52.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.979987590812442,0.666503554312257,-16.990852625568312
+[02Aug2025 05:25:52.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.063966141422327,0.6721289729032236,-17.622836538070736
+[02Aug2025 05:25:52.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.1495667314127047,0.677256344168768,-18.254850359144115
+[02Aug2025 05:25:55.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.3588225358586925,-0.0022004063839062837,-10.143380329280244
+[02Aug2025 05:25:55.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.4502642056257002,-0.0019878297062660977,-10.777721338410206
+[02Aug2025 05:25:55.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.5425136533011141,-0.0017955174340897884,-11.41199805121806
+[02Aug2025 05:25:56.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.6355764355511297,-0.0016215827520937864,-12.046201952626696
+[02Aug2025 05:25:56.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.7294615813989793,-0.001464309516592266,-12.680324792353911
+[02Aug2025 05:25:56.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.8241770049135368,-0.0013221394339240078,-13.314359188853679
+[02Aug2025 05:25:56.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 1.9197233575570891,-0.001193657937989201,-13.948267884452001
+[02Aug2025 05:25:56.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.0161059101973393,-0.0010775813058927497,-14.58204762323297
+[02Aug2025 05:25:56.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.1133279428514697,-9.727425254624222E-4,-15.215695826327408
+[02Aug2025 05:25:56.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.211392601889713,-8.780832138910455E-4,-15.84917861563363
+[02Aug2025 05:25:56.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.310301826645329,-7.926414436241203E-4,-16.482496742904857
+[02Aug2025 05:25:56.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.409634324663628,-7.155467443311636E-4,-17.115717443701282
+[02Aug2025 05:25:56.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.5081792097560793,-6.460096186771125E-4,-17.748992161687838
+[02Aug2025 05:25:56.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.6046085685909333,-5.833110495387928E-4,-18.382508742976558
+[02Aug2025 05:25:56.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.6980250233484497,-5.267982623280432E-4,-19.016345864621613
+[02Aug2025 05:25:56.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.7878643395587517,-4.758809793798946E-4,-19.6505618541656
+[02Aug2025 05:25:56.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.873811958090272,-4.300232501748269E-4,-20.285147094303863
+[02Aug2025 05:25:56.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.955750835155783,-3.8874084648909957E-4,-20.92010111145013
+[02Aug2025 05:25:56.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.0337023756663513,-3.515941095599828E-4,-21.555377214573806
+[02Aug2025 05:25:56.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.1077865187592693,-3.1818387169835205E-4,-22.190954214142664
+[02Aug2025 05:25:56.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.178194445462708,-2.8815013737926165E-4,-22.826775023235285
+[02Aug2025 05:25:56.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.245166706457937,-2.611660881655098E-4,-23.462814628543516
+[02Aug2025 05:25:56.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.3089634169164412,-2.3693505062283293E-4,-24.099017431059142
+[02Aug2025 05:25:56.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.369860421528543,-2.151901239955123E-4,-24.73536272427299
+[02Aug2025 05:25:56.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.4281367810995107,-1.9568904332345483E-4,-25.371800125205905
+[02Aug2025 05:25:56.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.4840734679618777,-1.782119264674975E-4,-26.008314612999325
+[02Aug2025 05:25:56.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.537514488564355,-1.6255963262779005E-4,-26.644887965507696
+[02Aug2025 05:25:56.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.5875011728374773,-1.4855406257652248E-4,-27.281574401078114
+[02Aug2025 05:25:56.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.632936441738778,-1.3603261531613953E-4,-27.91838291913466
+[02Aug2025 05:25:56.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.673141732713404,-1.2484785615640703E-4,-28.555285962209854
+[02Aug2025 05:25:56.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.7077604289113992,-1.1486608957511635E-4,-29.192267682986962
+[02Aug2025 05:25:56.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.7366760014380134,-1.0596607307888917E-4,-29.82927067310234
+[02Aug2025 05:25:56.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.7599500647153263,-9.804023984827381E-5,-30.46626865869138
+[02Aug2025 05:25:56.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 3.7777666754932113,-9.099101764320494E-5,-31.103205891088468
+[02Aug2025 05:25:56.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
+[02Aug2025 05:25:56.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.5222071767877736,0.0023505943664190454,-22.23107985719858
+[02Aug2025 05:25:56.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.529958133780667,0.002356147647347484,-22.86781582879825
+[02Aug2025 05:25:56.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.5331970558514314,0.0023610658999473344,-23.504393005736723
+[02Aug2025 05:25:56.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.532289261133954,0.002365415151800221,-24.14081337559842
+[02Aug2025 05:25:56.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.527606517226431,0.0023692552796177324,-24.77705159969713
+[02Aug2025 05:25:56.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.519514817156562,0.0023726381941884256,-25.41311922338525
+[02Aug2025 05:25:56.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of morax) moved too quickly! 2.5083608723809476,0.002375610987698451,-26.048998413942314
+[02Aug2025 05:26:03.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el taxi no es gratis
+[02Aug2025 05:26:15.290] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 05:26:15.290] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 05:26:17.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pene
+[02Aug2025 05:26:21.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> nothing beat a jet2holidays
+[02Aug2025 05:26:28.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[02Aug2025 05:26:28.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[02Aug2025 05:26:28.805] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[02Aug2025 05:26:35.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eduardo a que continente vamos
+[02Aug2025 05:26:41.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> vamo pa africa
+[02Aug2025 05:27:13.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> a matar negros
+[02Aug2025 05:27:23.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Dalej'/96166, l='ServerLevel[Mundo nuevo]', x=-187.06, y=66.00, z=149.62] died: Dalej's Zombie was slain by Dalej
+[02Aug2025 05:27:27.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:27:30.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved wrongly!
+[02Aug2025 05:27:40.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> durismo
+[02Aug2025 05:27:44.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> estamos intentando hospedarnos aqui
+[02Aug2025 05:27:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> base petrolera
+[02Aug2025 05:27:50.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> lo q esta echo pinga
+[02Aug2025 05:27:50.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> me sirve
+[02Aug2025 05:28:01.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> aaa x eso lo delos recursos?
+[02Aug2025 05:28:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> esacto
+[02Aug2025 05:28:19.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 8.687673533636229,-0.7012968536522237,-5.734625951065709
+[02Aug2025 05:28:21.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y lo de madera ahi es paara salir volando
+[02Aug2025 05:28:21.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3152ms or 63 ticks behind
+[02Aug2025 05:28:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> aaa dale dale
+[02Aug2025 05:28:36.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.357629970277728,-3.0013359791121417,-2.077473151003545
+[02Aug2025 05:28:42.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> vamo a ponerno pa esto
+[02Aug2025 05:29:16.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[02Aug2025 05:30:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Bark Off]
+[02Aug2025 05:30:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> intenta tapar los huecos del piso
+[02Aug2025 05:31:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ilumina todo
+[02Aug2025 05:31:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Hot Stuff]

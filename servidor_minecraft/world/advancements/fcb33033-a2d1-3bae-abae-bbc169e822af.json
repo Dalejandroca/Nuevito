@@ -1903,5 +1903,47 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/disc": {
+    "criteria": {
+      "has_the_recipe": "2025-08-02 05:17:44 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2025-08-02 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_arrow": "2025-08-02 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/living_arrow": {
+    "criteria": {
+      "has_arrow": "2025-08-02 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand": {
+    "criteria": {
+      "has_stand": "2025-08-02 05:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-02 05:19:27 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_all_stands": {
+    "criteria": {
+      "has_cream": "2025-08-02 05:17:44 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

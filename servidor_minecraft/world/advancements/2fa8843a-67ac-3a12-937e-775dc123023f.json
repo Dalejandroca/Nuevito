@@ -45,6 +45,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-01 06:09:01 +0000",
       "minecraft:taiga": "2025-08-02 04:42:29 +0000",
+      "minecraft:deep_ocean": "2025-08-02 04:52:15 +0000",
       "minecraft:beach": "2025-08-01 06:04:00 +0000",
       "minecraft:river": "2025-08-01 06:03:45 +0000",
       "minecraft:cold_ocean": "2025-08-02 04:50:03 +0000",
@@ -1585,6 +1586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-02 04:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 04:48:41 +0000"
@@ -1594,6 +1601,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-02 04:58:01 +0000"
     },
     "done": true
   },
@@ -1612,6 +1625,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-02 04:56:21 +0000"
     },
     "done": true
   },
@@ -1639,6 +1658,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-08-02 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-02 04:54:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-02 04:44:16 +0000"
@@ -1648,6 +1679,12 @@
   "jcraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-02 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-02 04:58:01 +0000"
     },
     "done": true
   },
@@ -1669,9 +1706,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-02 04:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-08-02 04:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-02 04:55:47 +0000"
     },
     "done": true
   },

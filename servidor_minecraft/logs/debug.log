@@ -8297,3 +8297,1270 @@ java.lang.NullPointerException: null
 [02Aug2025 04:52:00.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [02Aug2025 04:52:06.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> mor este
 [02Aug2025 04:52:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> i nate higgers
+[02Aug2025 04:52:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que es esto de infeccion david
+[02Aug2025 04:52:26.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 04:52:27.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ahi
+[02Aug2025 04:52:30.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> voy a tener sida
+[02Aug2025 04:52:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> bienvenido al club de la pelea
+[02Aug2025 04:52:36.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> primera regla
+[02Aug2025 04:52:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> bro
+[02Aug2025 04:52:40.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no se habla del club de la pelea
+[02Aug2025 04:52:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estacionate
+[02Aug2025 04:52:45.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> base perfecta
+[02Aug2025 04:52:55.271] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 17
+[02Aug2025 04:52:56.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Aug2025 04:52:57.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 04:53:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ay dios
+[02Aug2025 04:53:11.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> vamo a limpiar
+[02Aug2025 04:53:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> por si acaso
+[02Aug2025 04:53:18.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sabes nadar?
+[02Aug2025 04:53:21.734] [Server thread/DEBUG] [pointblank/]: 1734 handling client fire request
+[02Aug2025 04:53:21.734] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 6
+[02Aug2025 04:53:21.734] [Server thread/DEBUG] [pointblank/]: 1734 - obtained hit result in 0ms
+[02Aug2025 04:53:21.734] [Server thread/DEBUG] [pointblank/]: 1734 obtained hit results
+[02Aug2025 04:53:21.734] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@743f2601
+[02Aug2025 04:53:21.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.96, y=73.50, z=-369.59] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.96, y=73.50, z=-369.59]
+[02Aug2025 04:53:21.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.96, y=73.50, z=-369.59] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=598.37, y=73.50, z=-371.80]
+[02Aug2025 04:53:34.719] [Server thread/DEBUG] [pointblank/]: 14719 handling client fire request
+[02Aug2025 04:53:34.719] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 5
+[02Aug2025 04:53:34.719] [Server thread/DEBUG] [pointblank/]: 14719 - obtained hit result in 0ms
+[02Aug2025 04:53:34.719] [Server thread/DEBUG] [pointblank/]: 14719 obtained hit results
+[02Aug2025 04:53:34.719] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@477b061f
+[02Aug2025 04:53:34.721] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=600.17, y=73.50, z=-368.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=600.17, y=73.50, z=-368.70]
+[02Aug2025 04:53:34.721] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=600.17, y=73.50, z=-368.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=600.48, y=73.50, z=-371.18]
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: 18047 handling client fire request
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 4
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: 18047 - obtained hit result in 0ms
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: 18047 obtained hit results
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@140180ba
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=599.71, y=73.50, z=-368.96] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=599.71, y=73.50, z=-368.96]
+[02Aug2025 04:53:38.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=599.71, y=73.50, z=-368.96] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=600.62, y=73.50, z=-371.58]
+[02Aug2025 04:53:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no gastes balas
+[02Aug2025 04:53:43.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay un spawn
+[02Aug2025 04:53:46.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[02Aug2025 04:54:09.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8267ms or 165 ticks behind
+[02Aug2025 04:54:18.069] [Server thread/DEBUG] [pointblank/]: 58069 handling client fire request
+[02Aug2025 04:54:18.070] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 16
+[02Aug2025 04:54:18.070] [Server thread/DEBUG] [pointblank/]: 58070 - obtained hit result in 0ms
+[02Aug2025 04:54:18.070] [Server thread/DEBUG] [pointblank/]: 58070 obtained hit results
+[02Aug2025 04:54:18.070] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f964d60
+[02Aug2025 04:54:18.072] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=606.39, y=73.50, z=-369.84] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=606.07, y=73.50, z=-371.91]
+[02Aug2025 04:54:18.072] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=606.39, y=73.50, z=-369.84] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=606.39, y=73.50, z=-369.84]
+[02Aug2025 04:54:18.085] [Server thread/DEBUG] [pointblank/]: 58085 handling client fire request
+[02Aug2025 04:54:18.085] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 15
+[02Aug2025 04:54:18.085] [Server thread/DEBUG] [pointblank/]: 58085 - obtained hit result in 0ms
+[02Aug2025 04:54:18.085] [Server thread/DEBUG] [pointblank/]: 58085 obtained hit results
+[02Aug2025 04:54:18.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@562348b5
+[02Aug2025 04:54:18.088] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=606.39, y=73.50, z=-369.84] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=606.07, y=73.50, z=-371.91]
+[02Aug2025 04:54:18.089] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=606.39, y=73.50, z=-369.84] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=606.39, y=73.50, z=-369.84]
+[02Aug2025 04:54:20.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! -2.2244973980558314,-11.418310847881429,0.4227713797798742
+[02Aug2025 04:54:24.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 2.659690101572494,0.41999998688697815,-9.964590146793455
+[02Aug2025 04:54:37.422] [Server thread/DEBUG] [pointblank/]: 77422 handling client fire request
+[02Aug2025 04:54:37.423] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 16
+[02Aug2025 04:54:37.423] [Server thread/DEBUG] [pointblank/]: 77423 - obtained hit result in 0ms
+[02Aug2025 04:54:37.423] [Server thread/DEBUG] [pointblank/]: 77423 obtained hit results
+[02Aug2025 04:54:37.423] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c9dd5e
+[02Aug2025 04:54:37.425] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=118.30, y=63.00, z=623.53] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=118.30, y=63.00, z=623.53]
+[02Aug2025 04:54:37.428] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 16
+[02Aug2025 04:54:37.966] [Server thread/DEBUG] [pointblank/]: 77966 handling client fire request
+[02Aug2025 04:54:37.966] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 15
+[02Aug2025 04:54:37.966] [Server thread/DEBUG] [pointblank/]: 77966 - obtained hit result in 0ms
+[02Aug2025 04:54:37.966] [Server thread/DEBUG] [pointblank/]: 77966 obtained hit results
+[02Aug2025 04:54:37.966] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5155104c
+[02Aug2025 04:54:37.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=600.59, y=73.50, z=-372.52]
+[02Aug2025 04:54:37.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:39.965] [Server thread/DEBUG] [pointblank/]: 79965 handling client fire request
+[02Aug2025 04:54:39.965] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 15
+[02Aug2025 04:54:39.965] [Server thread/DEBUG] [pointblank/]: 79965 - obtained hit result in 0ms
+[02Aug2025 04:54:39.965] [Server thread/DEBUG] [pointblank/]: 79965 obtained hit results
+[02Aug2025 04:54:39.965] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4130472
+[02Aug2025 04:54:39.967] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=118.30, y=63.00, z=623.53] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=118.30, y=63.00, z=623.53]
+[02Aug2025 04:54:39.973] [Server thread/DEBUG] [pointblank/]: 79973 handling client fire request
+[02Aug2025 04:54:39.973] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 14
+[02Aug2025 04:54:39.974] [Server thread/DEBUG] [pointblank/]: 79974 - obtained hit result in 1ms
+[02Aug2025 04:54:39.974] [Server thread/DEBUG] [pointblank/]: 79974 obtained hit results
+[02Aug2025 04:54:39.974] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e35c902
+[02Aug2025 04:54:39.975] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=598.98, y=73.50, z=-371.50]
+[02Aug2025 04:54:39.975] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:39.982] [Server thread/DEBUG] [pointblank/]: 79982 handling client fire request
+[02Aug2025 04:54:39.982] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 14
+[02Aug2025 04:54:39.982] [Server thread/DEBUG] [pointblank/]: 79982 - obtained hit result in 0ms
+[02Aug2025 04:54:39.982] [Server thread/DEBUG] [pointblank/]: 79982 obtained hit results
+[02Aug2025 04:54:39.982] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73facba4
+[02Aug2025 04:54:39.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=118.48, y=63.00, z=624.24] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=118.48, y=63.00, z=624.24]
+[02Aug2025 04:54:40.518] [Server thread/DEBUG] [pointblank/]: 80518 handling client fire request
+[02Aug2025 04:54:40.518] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 13
+[02Aug2025 04:54:40.518] [Server thread/DEBUG] [pointblank/]: 80518 - obtained hit result in 0ms
+[02Aug2025 04:54:40.518] [Server thread/DEBUG] [pointblank/]: 80518 obtained hit results
+[02Aug2025 04:54:40.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ab75fd2
+[02Aug2025 04:54:41.125] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68]
+[02Aug2025 04:54:41.125] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:41.524] [Server thread/DEBUG] [pointblank/]: 81524 handling client fire request
+[02Aug2025 04:54:41.524] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 12
+[02Aug2025 04:54:41.524] [Server thread/DEBUG] [pointblank/]: 81524 - obtained hit result in 0ms
+[02Aug2025 04:54:41.524] [Server thread/DEBUG] [pointblank/]: 81524 obtained hit results
+[02Aug2025 04:54:41.524] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38e48c7a
+[02Aug2025 04:54:41.526] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68]
+[02Aug2025 04:54:41.526] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:41.797] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7681, y=-56, z=-381}
+[02Aug2025 04:54:43.895] [Server thread/DEBUG] [pointblank/]: 83895 handling client fire request
+[02Aug2025 04:54:43.895] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 3
+[02Aug2025 04:54:43.895] [Server thread/DEBUG] [pointblank/]: 83895 - obtained hit result in 0ms
+[02Aug2025 04:54:43.895] [Server thread/DEBUG] [pointblank/]: 83895 obtained hit results
+[02Aug2025 04:54:43.895] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c6ce5f6
+[02Aug2025 04:54:43.895] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68]
+[02Aug2025 04:54:43.896] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:43.902] [Server thread/DEBUG] [pointblank/]: 83902 handling client fire request
+[02Aug2025 04:54:43.902] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 11
+[02Aug2025 04:54:43.902] [Server thread/DEBUG] [pointblank/]: 83902 - obtained hit result in 0ms
+[02Aug2025 04:54:43.902] [Server thread/DEBUG] [pointblank/]: 83902 obtained hit results
+[02Aug2025 04:54:43.902] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39f6da52
+[02Aug2025 04:54:43.904] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68]
+[02Aug2025 04:54:43.904] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:43.909] [Server thread/DEBUG] [pointblank/]: 83909 handling client fire request
+[02Aug2025 04:54:43.909] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 10
+[02Aug2025 04:54:43.909] [Server thread/DEBUG] [pointblank/]: 83909 - obtained hit result in 0ms
+[02Aug2025 04:54:43.909] [Server thread/DEBUG] [pointblank/]: 83909 obtained hit results
+[02Aug2025 04:54:43.909] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7324a580
+[02Aug2025 04:54:43.911] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68]
+[02Aug2025 04:54:43.911] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: 84503 handling client fire request
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 2
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: 84503 - obtained hit result in 0ms
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: 84503 obtained hit results
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f31a44d
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68]
+[02Aug2025 04:54:44.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=597.21, y=74.00, z=-371.68] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.06, y=73.50, z=-367.54]
+[02Aug2025 04:54:45.824] [Server thread/DEBUG] [pointblank/]: 85824 handling client fire request
+[02Aug2025 04:54:45.824] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 13
+[02Aug2025 04:54:45.824] [Server thread/DEBUG] [pointblank/]: 85824 - obtained hit result in 0ms
+[02Aug2025 04:54:45.824] [Server thread/DEBUG] [pointblank/]: 85824 obtained hit results
+[02Aug2025 04:54:45.824] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@30b52fb5
+[02Aug2025 04:54:45.824] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.70, y=64.00, z=645.88] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.70, y=64.00, z=645.88]
+[02Aug2025 04:54:45.872] [Server thread/DEBUG] [pointblank/]: 85872 handling client fire request
+[02Aug2025 04:54:45.873] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 1
+[02Aug2025 04:54:45.873] [Server thread/DEBUG] [pointblank/]: 85873 - obtained hit result in 0ms
+[02Aug2025 04:54:45.873] [Server thread/DEBUG] [pointblank/]: 85873 obtained hit results
+[02Aug2025 04:54:45.873] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5d4f8cab
+[02Aug2025 04:54:45.873] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-372.11] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-372.11]
+[02Aug2025 04:54:45.873] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-372.11] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.28, y=73.50, z=-367.91]
+[02Aug2025 04:54:47.984] [Server thread/DEBUG] [pointblank/]: 87984 handling client fire request
+[02Aug2025 04:54:47.984] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 0
+[02Aug2025 04:54:47.984] [Server thread/DEBUG] [pointblank/]: 87984 - obtained hit result in 0ms
+[02Aug2025 04:54:47.984] [Server thread/DEBUG] [pointblank/]: 87984 obtained hit results
+[02Aug2025 04:54:47.984] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14dd25ef
+[02Aug2025 04:54:47.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-372.11] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-372.11]
+[02Aug2025 04:54:47.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-372.11] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.89, y=73.50, z=-367.91]
+[02Aug2025 04:54:48.004] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:54:48.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23360ms or 467 ticks behind
+[02Aug2025 04:54:48.426] [Server thread/DEBUG] [pointblank/]: 88426 handling client fire request
+[02Aug2025 04:54:48.426] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 12
+[02Aug2025 04:54:48.426] [Server thread/DEBUG] [pointblank/]: 88426 - obtained hit result in 0ms
+[02Aug2025 04:54:48.426] [Server thread/DEBUG] [pointblank/]: 88426 obtained hit results
+[02Aug2025 04:54:48.426] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c4d40a6
+[02Aug2025 04:54:48.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=104.62, y=64.00, z=648.47] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=104.62, y=64.00, z=648.47]
+[02Aug2025 04:54:52.617] [Server thread/DEBUG] [pointblank/]: 92617 handling client fire request
+[02Aug2025 04:54:52.617] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 11
+[02Aug2025 04:54:52.618] [Server thread/DEBUG] [pointblank/]: 92618 - obtained hit result in 1ms
+[02Aug2025 04:54:52.618] [Server thread/DEBUG] [pointblank/]: 92618 obtained hit results
+[02Aug2025 04:54:52.618] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@77e3c76f
+[02Aug2025 04:54:52.619] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=103.63, y=64.00, z=650.89] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=103.63, y=64.00, z=650.89]
+[02Aug2025 04:54:52.632] [Server thread/DEBUG] [pointblank/]: 92632 handling client fire request
+[02Aug2025 04:54:52.632] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 9
+[02Aug2025 04:54:52.632] [Server thread/DEBUG] [pointblank/]: 92632 - obtained hit result in 0ms
+[02Aug2025 04:54:52.632] [Server thread/DEBUG] [pointblank/]: 92632 obtained hit results
+[02Aug2025 04:54:52.632] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@35b0f8f8
+[02Aug2025 04:54:52.633] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.43] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.33, y=74.00, z=-371.70]
+[02Aug2025 04:54:52.633] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.43] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.43]
+[02Aug2025 04:54:52.642] [Server thread/DEBUG] [pointblank/]: 92642 handling client fire request
+[02Aug2025 04:54:52.642] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 10
+[02Aug2025 04:54:52.642] [Server thread/DEBUG] [pointblank/]: 92642 - obtained hit result in 0ms
+[02Aug2025 04:54:52.642] [Server thread/DEBUG] [pointblank/]: 92642 obtained hit results
+[02Aug2025 04:54:52.642] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@9b32958
+[02Aug2025 04:54:52.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=104.65, y=64.00, z=648.32] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=104.65, y=64.00, z=648.32]
+[02Aug2025 04:54:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> amarillo mio
+[02Aug2025 04:54:59.997] [Server thread/DEBUG] [pointblank/]: 99997 handling client fire request
+[02Aug2025 04:54:59.997] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 9
+[02Aug2025 04:54:59.997] [Server thread/DEBUG] [pointblank/]: 99997 - obtained hit result in 0ms
+[02Aug2025 04:54:59.997] [Server thread/DEBUG] [pointblank/]: 99997 obtained hit results
+[02Aug2025 04:54:59.997] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d39b54b
+[02Aug2025 04:54:59.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=104.96, y=64.00, z=647.48] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=104.96, y=64.00, z=647.48]
+[02Aug2025 04:55:00.012] [Server thread/DEBUG] [pointblank/]: 12 handling client fire request
+[02Aug2025 04:55:00.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 8
+[02Aug2025 04:55:00.012] [Server thread/DEBUG] [pointblank/]: 12 - obtained hit result in 0ms
+[02Aug2025 04:55:00.012] [Server thread/DEBUG] [pointblank/]: 12 obtained hit results
+[02Aug2025 04:55:00.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3942e019
+[02Aug2025 04:55:00.015] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.55, y=64.00, z=646.09] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.55, y=64.00, z=646.09]
+[02Aug2025 04:55:00.028] [Server thread/DEBUG] [pointblank/]: 28 handling client fire request
+[02Aug2025 04:55:00.028] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 8
+[02Aug2025 04:55:00.029] [Server thread/DEBUG] [pointblank/]: 29 - obtained hit result in 0ms
+[02Aug2025 04:55:00.029] [Server thread/DEBUG] [pointblank/]: 29 obtained hit results
+[02Aug2025 04:55:00.029] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5200c63a
+[02Aug2025 04:55:00.030] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.42] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.95, y=74.00, z=-371.88]
+[02Aug2025 04:55:00.031] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.42] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.42]
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: 33 handling client fire request
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 7
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: 33 - obtained hit result in 0ms
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: 33 obtained hit results
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@33f05149
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.42] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.95, y=74.00, z=-371.88]
+[02Aug2025 04:55:00.033] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.42] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.82, y=73.50, z=-368.42]
+[02Aug2025 04:55:00.035] [Server thread/DEBUG] [pointblank/]: 35 handling client fire request
+[02Aug2025 04:55:00.035] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 7
+[02Aug2025 04:55:00.035] [Server thread/DEBUG] [pointblank/]: 35 - obtained hit result in 0ms
+[02Aug2025 04:55:00.035] [Server thread/DEBUG] [pointblank/]: 35 obtained hit results
+[02Aug2025 04:55:00.035] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@72b7bb2b
+[02Aug2025 04:55:00.035] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.55, y=64.00, z=646.09] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.55, y=64.00, z=646.09]
+[02Aug2025 04:55:00.085] [Server thread/DEBUG] [pointblank/]: 85 handling client fire request
+[02Aug2025 04:55:00.085] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 923254652 to 6
+[02Aug2025 04:55:00.085] [Server thread/DEBUG] [pointblank/]: 85 - obtained hit result in 0ms
+[02Aug2025 04:55:00.085] [Server thread/DEBUG] [pointblank/]: 85 obtained hit results
+[02Aug2025 04:55:00.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@559d2868
+[02Aug2025 04:55:00.086] [Server thread/DEBUG] [pointblank/]: ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.55, y=64.00, z=646.09] sends hit scan notification to ServerPlayer['desgo'/1924, l='ServerLevel[Mundo nuevo]', x=105.55, y=64.00, z=646.09]
+[02Aug2025 04:55:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> puto lag
+[02Aug2025 04:55:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga el lag
+[02Aug2025 04:55:05.547] [Server thread/DEBUG] [pointblank/]: 5547 handling client fire request
+[02Aug2025 04:55:05.547] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:55:05.547] [Server thread/DEBUG] [pointblank/]: 5547 - obtained hit result in 0ms
+[02Aug2025 04:55:05.547] [Server thread/DEBUG] [pointblank/]: 5547 obtained hit results
+[02Aug2025 04:55:05.547] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@757d3933
+[02Aug2025 04:55:05.549] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06]
+[02Aug2025 04:55:05.549] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.09, y=73.50, z=-364.12]
+[02Aug2025 04:55:05.572] [Server thread/DEBUG] [pointblank/]: 5572 handling client fire request
+[02Aug2025 04:55:05.572] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 15
+[02Aug2025 04:55:05.572] [Server thread/DEBUG] [pointblank/]: 5572 - obtained hit result in 0ms
+[02Aug2025 04:55:05.572] [Server thread/DEBUG] [pointblank/]: 5572 obtained hit results
+[02Aug2025 04:55:05.572] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6dc17fac
+[02Aug2025 04:55:05.574] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06]
+[02Aug2025 04:55:05.574] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.09, y=73.50, z=-364.12]
+[02Aug2025 04:55:07.693] [Server thread/DEBUG] [pointblank/]: 7693 handling client fire request
+[02Aug2025 04:55:07.693] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 04:55:07.693] [Server thread/DEBUG] [pointblank/]: 7693 - obtained hit result in 0ms
+[02Aug2025 04:55:07.693] [Server thread/DEBUG] [pointblank/]: 7693 obtained hit results
+[02Aug2025 04:55:07.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1de28a16
+[02Aug2025 04:55:07.695] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06]
+[02Aug2025 04:55:07.695] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.34, y=74.00, z=-372.06] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.09, y=73.50, z=-364.12]
+[02Aug2025 04:55:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david tu madre si me muero
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: 10084 handling client fire request
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 6
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: 10084 - obtained hit result in 0ms
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: 10084 obtained hit results
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6c891209
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.86, y=74.00, z=-371.23]
+[02Aug2025 04:55:10.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:10.284] [Server thread/DEBUG] [pointblank/]: 10284 handling client fire request
+[02Aug2025 04:55:10.284] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 5
+[02Aug2025 04:55:10.284] [Server thread/DEBUG] [pointblank/]: 10284 - obtained hit result in 0ms
+[02Aug2025 04:55:10.284] [Server thread/DEBUG] [pointblank/]: 10284 obtained hit results
+[02Aug2025 04:55:10.285] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@711789d2
+[02Aug2025 04:55:10.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22]
+[02Aug2025 04:55:10.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:10.428] [Server thread/DEBUG] [pointblank/]: 10428 handling client fire request
+[02Aug2025 04:55:10.428] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 4
+[02Aug2025 04:55:10.429] [Server thread/DEBUG] [pointblank/]: 10429 - obtained hit result in 1ms
+[02Aug2025 04:55:10.429] [Server thread/DEBUG] [pointblank/]: 10429 obtained hit results
+[02Aug2025 04:55:10.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7284ff09
+[02Aug2025 04:55:10.431] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22]
+[02Aug2025 04:55:10.431] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: 13200 handling client fire request
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 3
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: 13200 - obtained hit result in 0ms
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: 13200 obtained hit results
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@228cd456
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22]
+[02Aug2025 04:55:13.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:13.201] [Server thread/DEBUG] [pointblank/]: 13201 handling client fire request
+[02Aug2025 04:55:13.201] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 04:55:13.201] [Server thread/DEBUG] [pointblank/]: 13201 - obtained hit result in 0ms
+[02Aug2025 04:55:13.201] [Server thread/DEBUG] [pointblank/]: 13201 obtained hit results
+[02Aug2025 04:55:13.201] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ad08cd7
+[02Aug2025 04:55:13.203] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22]
+[02Aug2025 04:55:13.203] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:13.214] [Server thread/DEBUG] [pointblank/]: 13214 handling client fire request
+[02Aug2025 04:55:13.214] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 2
+[02Aug2025 04:55:13.215] [Server thread/DEBUG] [pointblank/]: 13215 - obtained hit result in 0ms
+[02Aug2025 04:55:13.215] [Server thread/DEBUG] [pointblank/]: 13215 obtained hit results
+[02Aug2025 04:55:13.215] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4865e454
+[02Aug2025 04:55:13.215] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22]
+[02Aug2025 04:55:13.215] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:13.239] [Server thread/DEBUG] [pointblank/]: 13239 handling client fire request
+[02Aug2025 04:55:13.240] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 12
+[02Aug2025 04:55:13.240] [Server thread/DEBUG] [pointblank/]: 13240 - obtained hit result in 0ms
+[02Aug2025 04:55:13.240] [Server thread/DEBUG] [pointblank/]: 13240 obtained hit results
+[02Aug2025 04:55:13.240] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3aa3f948
+[02Aug2025 04:55:13.242] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22]
+[02Aug2025 04:55:13.242] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=595.84, y=74.00, z=-371.22] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:13.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> papa hay un lag
+[02Aug2025 04:55:15.376] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:55:15.389] [Server thread/DEBUG] [pointblank/]: 15389 handling client fire request
+[02Aug2025 04:55:15.389] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 1
+[02Aug2025 04:55:15.389] [Server thread/DEBUG] [pointblank/]: 15389 - obtained hit result in 0ms
+[02Aug2025 04:55:15.389] [Server thread/DEBUG] [pointblank/]: 15389 obtained hit results
+[02Aug2025 04:55:15.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@107f6502
+[02Aug2025 04:55:15.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.78, y=74.00, z=-371.74]
+[02Aug2025 04:55:15.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.25, y=73.50, z=-366.45]
+[02Aug2025 04:55:17.528] [Server thread/DEBUG] [pointblank/]: 17528 handling client fire request
+[02Aug2025 04:55:17.528] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:55:17.528] [Server thread/DEBUG] [pointblank/]: 17528 - obtained hit result in 0ms
+[02Aug2025 04:55:17.528] [Server thread/DEBUG] [pointblank/]: 17528 obtained hit results
+[02Aug2025 04:55:17.528] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6cf46367
+[02Aug2025 04:55:17.529] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.43, y=74.00, z=-371.56] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.43, y=74.00, z=-371.56]
+[02Aug2025 04:55:17.529] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.43, y=74.00, z=-371.56] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.53, y=73.50, z=-367.23]
+[02Aug2025 04:55:17.916] [Server thread/DEBUG] [pointblank/]: 17916 handling client fire request
+[02Aug2025 04:55:17.916] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 15
+[02Aug2025 04:55:17.917] [Server thread/DEBUG] [pointblank/]: 17917 - obtained hit result in 0ms
+[02Aug2025 04:55:17.917] [Server thread/DEBUG] [pointblank/]: 17917 obtained hit results
+[02Aug2025 04:55:17.917] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1537bb38
+[02Aug2025 04:55:17.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47]
+[02Aug2025 04:55:17.919] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.53, y=73.50, z=-367.23]
+[02Aug2025 04:55:21.474] [Server thread/DEBUG] [pointblank/]: 21474 handling client fire request
+[02Aug2025 04:55:21.474] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 04:55:21.474] [Server thread/DEBUG] [pointblank/]: 21474 - obtained hit result in 0ms
+[02Aug2025 04:55:21.474] [Server thread/DEBUG] [pointblank/]: 21474 obtained hit results
+[02Aug2025 04:55:21.474] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18d11d56
+[02Aug2025 04:55:21.476] [Server thread/DEBUG] [pointblank/]: Creating state e28c80e1-5462-4522-adfb-175d871a27af
+[02Aug2025 04:55:21.479] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47]
+[02Aug2025 04:55:21.479] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.23, y=73.50, z=-366.71]
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: 21493 handling client fire request
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: 21493 - obtained hit result in 0ms
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: 21493 obtained hit results
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@165539c
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47]
+[02Aug2025 04:55:21.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.24, y=74.00, z=-371.47] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=598.21, y=73.50, z=-366.89]
+[02Aug2025 04:55:21.508] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:55:26.271] [Server thread/DEBUG] [pointblank/]: 26271 handling client fire request
+[02Aug2025 04:55:26.271] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 636008611 to 0
+[02Aug2025 04:55:26.271] [Server thread/DEBUG] [pointblank/]: 26271 - obtained hit result in 0ms
+[02Aug2025 04:55:26.271] [Server thread/DEBUG] [pointblank/]: 26271 obtained hit results
+[02Aug2025 04:55:26.271] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f298338
+[02Aug2025 04:55:26.274] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.67, y=73.50, z=-366.63] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.50, y=74.00, z=-371.67]
+[02Aug2025 04:55:26.274] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.67, y=73.50, z=-366.63] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.67, y=73.50, z=-366.63]
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: 26279 handling client fire request
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: 26279 - obtained hit result in 0ms
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: 26279 obtained hit results
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ecb2be8
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.23, y=74.00, z=-371.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.23, y=74.00, z=-371.49]
+[02Aug2025 04:55:26.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=596.23, y=74.00, z=-371.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=596.67, y=73.50, z=-366.63]
+[02Aug2025 04:55:26.554] [Server thread/DEBUG] [pointblank/]: 26554 handling client fire request
+[02Aug2025 04:55:29.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26151ms or 523 ticks behind
+[02Aug2025 04:55:31.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> que pinga
+[02Aug2025 04:55:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q pinga es es
+[02Aug2025 04:55:32.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> nemesis
+[02Aug2025 04:55:34.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya
+[02Aug2025 04:55:34.800] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:55:36.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Timed out
+[02Aug2025 04:55:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[02Aug2025 04:55:36.493] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 669ea7ec-30a7-31a3-8dbe-e7417b6d082f was unloaded
+[02Aug2025 04:55:36.533] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 04:55:59.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sigueme
+[02Aug2025 04:56:08.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dejame comprobar algoi
+[02Aug2025 04:56:23.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> me fui
+[02Aug2025 04:56:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> si vieras mi escapada
+[02Aug2025 04:56:44.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a la c me deslice por un bloque root
+[02Aug2025 04:56:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pal mar
+[02Aug2025 04:56:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: 62369 handling client fire request
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: 62369 - obtained hit result in 0ms
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: 62369 obtained hit results
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@790205a2
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37]
+[02Aug2025 04:57:42.369] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=626.05, y=57.85, z=-393.20]
+[02Aug2025 04:57:43.084] [Server thread/DEBUG] [pointblank/]: 63084 handling client fire request
+[02Aug2025 04:57:43.084] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 15
+[02Aug2025 04:57:43.084] [Server thread/DEBUG] [pointblank/]: 63084 - obtained hit result in 0ms
+[02Aug2025 04:57:43.084] [Server thread/DEBUG] [pointblank/]: 63084 obtained hit results
+[02Aug2025 04:57:43.084] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3271624e
+[02Aug2025 04:57:43.086] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37]
+[02Aug2025 04:57:43.086] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=626.37, y=55.27, z=-396.72]
+[02Aug2025 04:57:45.151] [Server thread/DEBUG] [pointblank/]: 65151 handling client fire request
+[02Aug2025 04:57:45.151] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 04:57:45.152] [Server thread/DEBUG] [pointblank/]: 65152 - obtained hit result in 0ms
+[02Aug2025 04:57:45.152] [Server thread/DEBUG] [pointblank/]: 65152 obtained hit results
+[02Aug2025 04:57:45.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51419ea6
+[02Aug2025 04:57:45.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37]
+[02Aug2025 04:57:45.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=618.85, y=53.59, z=-408.76]
+[02Aug2025 04:57:50.734] [Server thread/DEBUG] [pointblank/]: 70734 handling client fire request
+[02Aug2025 04:57:50.734] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 04:57:50.734] [Server thread/DEBUG] [pointblank/]: 70734 - obtained hit result in 0ms
+[02Aug2025 04:57:50.734] [Server thread/DEBUG] [pointblank/]: 70734 obtained hit results
+[02Aug2025 04:57:50.734] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68f6aab
+[02Aug2025 04:57:50.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37]
+[02Aug2025 04:57:50.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=567.29, y=62.72, z=-400.88]
+[02Aug2025 04:57:51.932] [Server thread/DEBUG] [pointblank/]: 71932 handling client fire request
+[02Aug2025 04:57:51.932] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 12
+[02Aug2025 04:57:51.932] [Server thread/DEBUG] [pointblank/]: 71932 - obtained hit result in 0ms
+[02Aug2025 04:57:51.932] [Server thread/DEBUG] [pointblank/]: 71932 obtained hit results
+[02Aug2025 04:57:51.932] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4174fd0c
+[02Aug2025 04:57:51.934] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37]
+[02Aug2025 04:57:51.934] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=571.01, y=62.72, z=-392.89]
+[02Aug2025 04:57:53.091] [Server thread/DEBUG] [pointblank/]: 73091 handling client fire request
+[02Aug2025 04:57:53.091] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 11
+[02Aug2025 04:57:53.091] [Server thread/DEBUG] [pointblank/]: 73091 - obtained hit result in 0ms
+[02Aug2025 04:57:53.091] [Server thread/DEBUG] [pointblank/]: 73091 obtained hit results
+[02Aug2025 04:57:53.091] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5e1de627
+[02Aug2025 04:57:53.093] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37]
+[02Aug2025 04:57:53.093] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=607.58, y=70.00, z=-382.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=579.46, y=62.72, z=-393.35]
+[02Aug2025 04:57:56.242] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:58:04.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Aug2025 04:58:04.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Aug2025 04:58:10.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya
+[02Aug2025 04:58:13.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dios
+[02Aug2025 04:58:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q salvada
+[02Aug2025 04:58:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa
+[02Aug2025 04:58:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> por ahi me deslice
+[02Aug2025 04:58:18.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> asi
+[02Aug2025 04:58:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pinga
+[02Aug2025 04:58:28.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> comida
+[02Aug2025 04:58:40.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[02Aug2025 04:58:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga el minimapa
+[02Aug2025 04:58:53.537] [Server thread/DEBUG] [pointblank/]: 33537 handling client fire request
+[02Aug2025 04:58:53.537] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:58:53.538] [Server thread/DEBUG] [pointblank/]: 33538 - obtained hit result in 0ms
+[02Aug2025 04:58:53.538] [Server thread/DEBUG] [pointblank/]: 33538 obtained hit results
+[02Aug2025 04:58:53.538] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43789a41
+[02Aug2025 04:58:53.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.13, y=63.00, z=-371.59] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.13, y=63.00, z=-371.59]
+[02Aug2025 04:58:53.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.13, y=63.00, z=-371.59] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=584.71, y=62.19, z=-371.05]
+[02Aug2025 04:58:54.138] [Server thread/DEBUG] [pointblank/]: 34138 handling client fire request
+[02Aug2025 04:58:54.138] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 15
+[02Aug2025 04:58:54.138] [Server thread/DEBUG] [pointblank/]: 34138 - obtained hit result in 0ms
+[02Aug2025 04:58:54.138] [Server thread/DEBUG] [pointblank/]: 34138 obtained hit results
+[02Aug2025 04:58:54.138] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5043b946
+[02Aug2025 04:58:54.138] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.86, y=63.00, z=-371.20] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.86, y=63.00, z=-371.20]
+[02Aug2025 04:58:54.139] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.86, y=63.00, z=-371.20] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=584.03, y=61.44, z=-372.02]
+[02Aug2025 04:58:55.444] [Server thread/DEBUG] [pointblank/]: 35444 handling client fire request
+[02Aug2025 04:58:55.444] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 04:58:55.444] [Server thread/DEBUG] [pointblank/]: 35444 - obtained hit result in 0ms
+[02Aug2025 04:58:55.444] [Server thread/DEBUG] [pointblank/]: 35444 obtained hit results
+[02Aug2025 04:58:55.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b04b4d8
+[02Aug2025 04:58:55.446] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=588.01, y=63.00, z=-369.51] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=588.01, y=63.00, z=-369.51]
+[02Aug2025 04:58:55.446] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=588.01, y=63.00, z=-369.51] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=584.92, y=62.72, z=-373.53]
+[02Aug2025 04:58:56.291] [Server thread/DEBUG] [pointblank/]: 36291 handling client fire request
+[02Aug2025 04:58:56.291] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 04:58:56.291] [Server thread/DEBUG] [pointblank/]: 36291 - obtained hit result in 0ms
+[02Aug2025 04:58:56.291] [Server thread/DEBUG] [pointblank/]: 36291 obtained hit results
+[02Aug2025 04:58:56.291] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@315dc956
+[02Aug2025 04:58:56.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=587.31, y=63.00, z=-368.98] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=587.31, y=63.00, z=-368.98]
+[02Aug2025 04:58:56.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=587.31, y=63.00, z=-368.98] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=585.95, y=63.00, z=-372.92]
+[02Aug2025 04:58:56.936] [Server thread/DEBUG] [pointblank/]: 36936 handling client fire request
+[02Aug2025 04:58:56.937] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 12
+[02Aug2025 04:58:56.937] [Server thread/DEBUG] [pointblank/]: 36937 - obtained hit result in 0ms
+[02Aug2025 04:58:56.937] [Server thread/DEBUG] [pointblank/]: 36937 obtained hit results
+[02Aug2025 04:58:56.937] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d8d462d
+[02Aug2025 04:58:56.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.84, y=63.00, z=-368.65] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.84, y=63.00, z=-368.65]
+[02Aug2025 04:58:56.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.84, y=63.00, z=-368.65] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.45, y=63.00, z=-372.22]
+[02Aug2025 04:58:57.287] [Server thread/DEBUG] [pointblank/]: 37287 handling client fire request
+[02Aug2025 04:58:57.288] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 11
+[02Aug2025 04:58:57.288] [Server thread/DEBUG] [pointblank/]: 37288 - obtained hit result in 0ms
+[02Aug2025 04:58:57.288] [Server thread/DEBUG] [pointblank/]: 37288 obtained hit results
+[02Aug2025 04:58:57.288] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2bcde260
+[02Aug2025 04:58:57.290] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.69, y=63.00, z=-368.54] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.69, y=63.00, z=-368.54]
+[02Aug2025 04:58:57.290] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.69, y=63.00, z=-368.54] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.33, y=63.00, z=-371.46]
+[02Aug2025 04:58:57.471] [Server thread/DEBUG] [pointblank/]: 37471 handling client fire request
+[02Aug2025 04:58:57.471] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 10
+[02Aug2025 04:58:57.471] [Server thread/DEBUG] [pointblank/]: 37471 - obtained hit result in 0ms
+[02Aug2025 04:58:57.471] [Server thread/DEBUG] [pointblank/]: 37471 obtained hit results
+[02Aug2025 04:58:57.471] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f0b6d8d
+[02Aug2025 04:58:57.473] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.64, y=63.00, z=-368.51] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.64, y=63.00, z=-368.51]
+[02Aug2025 04:58:57.473] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.64, y=63.00, z=-368.51] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.22, y=63.00, z=-371.05]
+[02Aug2025 04:58:57.687] [Server thread/DEBUG] [pointblank/]: 37687 handling client fire request
+[02Aug2025 04:58:57.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 9
+[02Aug2025 04:58:57.687] [Server thread/DEBUG] [pointblank/]: 37687 - obtained hit result in 0ms
+[02Aug2025 04:58:57.687] [Server thread/DEBUG] [pointblank/]: 37687 obtained hit results
+[02Aug2025 04:58:57.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b2fd15
+[02Aug2025 04:58:57.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.61, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.61, y=63.00, z=-368.49]
+[02Aug2025 04:58:57.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.61, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.11, y=63.00, z=-370.66]
+[02Aug2025 04:58:57.868] [Server thread/DEBUG] [pointblank/]: 37868 handling client fire request
+[02Aug2025 04:58:57.868] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 8
+[02Aug2025 04:58:57.869] [Server thread/DEBUG] [pointblank/]: 37869 - obtained hit result in 1ms
+[02Aug2025 04:58:57.869] [Server thread/DEBUG] [pointblank/]: 37869 obtained hit results
+[02Aug2025 04:58:57.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6cf9ebf5
+[02Aug2025 04:58:57.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.59, y=63.00, z=-368.48] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.59, y=63.00, z=-368.48]
+[02Aug2025 04:58:57.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.59, y=63.00, z=-368.48] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.05, y=63.00, z=-370.41]
+[02Aug2025 04:58:58.618] [Server thread/DEBUG] [pointblank/]: 38618 handling client fire request
+[02Aug2025 04:58:58.618] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 7
+[02Aug2025 04:58:58.619] [Server thread/DEBUG] [pointblank/]: 38619 - obtained hit result in 1ms
+[02Aug2025 04:58:58.619] [Server thread/DEBUG] [pointblank/]: 38619 obtained hit results
+[02Aug2025 04:58:58.619] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d98476e
+[02Aug2025 04:58:58.620] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.58, y=63.00, z=-368.48] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.58, y=63.00, z=-368.48]
+[02Aug2025 04:58:58.621] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.58, y=63.00, z=-368.48] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=585.96, y=63.00, z=-370.06]
+[02Aug2025 04:58:59.071] [Server thread/DEBUG] [pointblank/]: 39071 handling client fire request
+[02Aug2025 04:58:59.071] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 6
+[02Aug2025 04:58:59.071] [Server thread/DEBUG] [pointblank/]: 39071 - obtained hit result in 0ms
+[02Aug2025 04:58:59.071] [Server thread/DEBUG] [pointblank/]: 39071 obtained hit results
+[02Aug2025 04:58:59.072] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f18e095
+[02Aug2025 04:59:01.478] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.58, y=63.00, z=-368.48] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.58, y=63.00, z=-368.48]
+[02Aug2025 04:59:01.478] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.58, y=63.00, z=-368.48] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.12, y=63.00, z=-370.50]
+[02Aug2025 04:59:01.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: 41521 handling client fire request
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 5
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: 41521 - obtained hit result in 0ms
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: 41521 obtained hit results
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@eae6db8
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.72, y=63.00, z=-368.31] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.72, y=63.00, z=-368.31]
+[02Aug2025 04:59:01.521] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.72, y=63.00, z=-368.31] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.41, y=63.00, z=-371.32]
+[02Aug2025 04:59:01.622] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:59:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no tegnoa rma
+[02Aug2025 04:59:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> negro de mrd
+[02Aug2025 04:59:18.968] [Server thread/DEBUG] [pointblank/]: 58968 handling client fire request
+[02Aug2025 04:59:18.968] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:59:18.969] [Server thread/DEBUG] [pointblank/]: 58969 - obtained hit result in 1ms
+[02Aug2025 04:59:18.969] [Server thread/DEBUG] [pointblank/]: 58969 obtained hit results
+[02Aug2025 04:59:18.969] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@307d7280
+[02Aug2025 04:59:18.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49]
+[02Aug2025 04:59:18.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=584.70, y=63.00, z=-364.61]
+[02Aug2025 04:59:20.082] [Server thread/DEBUG] [pointblank/]: 60082 handling client fire request
+[02Aug2025 04:59:20.082] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 15
+[02Aug2025 04:59:20.082] [Server thread/DEBUG] [pointblank/]: 60082 - obtained hit result in 0ms
+[02Aug2025 04:59:20.082] [Server thread/DEBUG] [pointblank/]: 60082 obtained hit results
+[02Aug2025 04:59:20.082] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f14330e
+[02Aug2025 04:59:20.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49]
+[02Aug2025 04:59:20.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=585.07, y=63.00, z=-364.59]
+[02Aug2025 04:59:21.266] [Server thread/DEBUG] [pointblank/]: 61266 handling client fire request
+[02Aug2025 04:59:21.267] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 04:59:21.267] [Server thread/DEBUG] [pointblank/]: 61267 - obtained hit result in 0ms
+[02Aug2025 04:59:21.267] [Server thread/DEBUG] [pointblank/]: 61267 obtained hit results
+[02Aug2025 04:59:21.267] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a578b8e
+[02Aug2025 04:59:21.269] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49]
+[02Aug2025 04:59:21.269] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.14, y=63.00, z=-364.26]
+[02Aug2025 04:59:22.770] [Server thread/DEBUG] [pointblank/]: 62770 handling client fire request
+[02Aug2025 04:59:22.771] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 04:59:22.771] [Server thread/DEBUG] [pointblank/]: 62771 - obtained hit result in 0ms
+[02Aug2025 04:59:22.771] [Server thread/DEBUG] [pointblank/]: 62771 obtained hit results
+[02Aug2025 04:59:22.771] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74825547
+[02Aug2025 04:59:22.773] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49]
+[02Aug2025 04:59:22.773] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.55, y=63.00, z=-364.26]
+[02Aug2025 04:59:23.926] [Server thread/DEBUG] [pointblank/]: 63926 handling client fire request
+[02Aug2025 04:59:23.926] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 12
+[02Aug2025 04:59:23.927] [Server thread/DEBUG] [pointblank/]: 63927 - obtained hit result in 0ms
+[02Aug2025 04:59:23.927] [Server thread/DEBUG] [pointblank/]: 63927 obtained hit results
+[02Aug2025 04:59:23.927] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@172afd78
+[02Aug2025 04:59:23.929] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49]
+[02Aug2025 04:59:23.929] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.29, y=63.00, z=-368.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=586.55, y=63.00, z=-364.26]
+[02Aug2025 04:59:24.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> mira
+[02Aug2025 04:59:25.564] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 17
+[02Aug2025 04:59:30.041] [Server thread/DEBUG] [pointblank/]: 70041 handling client fire request
+[02Aug2025 04:59:30.041] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 16
+[02Aug2025 04:59:30.041] [Server thread/DEBUG] [pointblank/]: 70041 - obtained hit result in 0ms
+[02Aug2025 04:59:30.041] [Server thread/DEBUG] [pointblank/]: 70041 obtained hit results
+[02Aug2025 04:59:30.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@59363972
+[02Aug2025 04:59:30.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.56, y=14.00, z=140.08] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.56, y=14.00, z=140.08]
+[02Aug2025 04:59:30.219] [Server thread/DEBUG] [pointblank/]: 70219 handling client fire request
+[02Aug2025 04:59:30.219] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 15
+[02Aug2025 04:59:30.219] [Server thread/DEBUG] [pointblank/]: 70219 - obtained hit result in 0ms
+[02Aug2025 04:59:30.219] [Server thread/DEBUG] [pointblank/]: 70219 obtained hit results
+[02Aug2025 04:59:30.219] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@cd83a0d
+[02Aug2025 04:59:30.221] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.71, y=14.00, z=140.69] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.71, y=14.00, z=140.69]
+[02Aug2025 04:59:30.695] [Server thread/DEBUG] [pointblank/]: 70695 handling client fire request
+[02Aug2025 04:59:30.695] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 14
+[02Aug2025 04:59:30.695] [Server thread/DEBUG] [pointblank/]: 70695 - obtained hit result in 0ms
+[02Aug2025 04:59:30.695] [Server thread/DEBUG] [pointblank/]: 70695 obtained hit results
+[02Aug2025 04:59:30.695] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1211568e
+[02Aug2025 04:59:30.695] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.80, y=14.00, z=141.11] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.80, y=14.00, z=141.11]
+[02Aug2025 04:59:30.696] [Server thread/DEBUG] [pointblank/]: 70696 handling client fire request
+[02Aug2025 04:59:30.696] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 13
+[02Aug2025 04:59:30.696] [Server thread/DEBUG] [pointblank/]: 70696 - obtained hit result in 0ms
+[02Aug2025 04:59:30.696] [Server thread/DEBUG] [pointblank/]: 70696 obtained hit results
+[02Aug2025 04:59:30.696] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50db78d7
+[02Aug2025 04:59:30.698] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.91, y=14.00, z=141.70] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.91, y=14.00, z=141.70]
+[02Aug2025 04:59:30.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> vamos a hacer una base en un techo
+[02Aug2025 04:59:31.169] [Server thread/DEBUG] [pointblank/]: 71169 handling client fire request
+[02Aug2025 04:59:31.169] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 12
+[02Aug2025 04:59:31.169] [Server thread/DEBUG] [pointblank/]: 71169 - obtained hit result in 0ms
+[02Aug2025 04:59:31.169] [Server thread/DEBUG] [pointblank/]: 71169 obtained hit results
+[02Aug2025 04:59:31.169] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6065c24
+[02Aug2025 04:59:31.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.02, y=14.00, z=141.45] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.02, y=14.00, z=141.45]
+[02Aug2025 04:59:32.217] [Server thread/DEBUG] [pointblank/]: 72217 handling client fire request
+[02Aug2025 04:59:32.217] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 11
+[02Aug2025 04:59:32.217] [Server thread/DEBUG] [pointblank/]: 72217 - obtained hit result in 0ms
+[02Aug2025 04:59:32.217] [Server thread/DEBUG] [pointblank/]: 72217 obtained hit results
+[02Aug2025 04:59:32.217] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77bb0ba4
+[02Aug2025 04:59:32.217] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.74, y=14.00, z=141.09] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.74, y=14.00, z=141.09]
+[02Aug2025 04:59:32.219] [Server thread/DEBUG] [pointblank/]: 72219 handling client fire request
+[02Aug2025 04:59:32.219] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 10
+[02Aug2025 04:59:32.219] [Server thread/DEBUG] [pointblank/]: 72219 - obtained hit result in 0ms
+[02Aug2025 04:59:32.219] [Server thread/DEBUG] [pointblank/]: 72219 obtained hit results
+[02Aug2025 04:59:32.219] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77100461
+[02Aug2025 04:59:32.219] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.74, y=14.00, z=141.09] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.74, y=14.00, z=141.09]
+[02Aug2025 04:59:32.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se unde
+[02Aug2025 04:59:33.677] [Server thread/DEBUG] [pointblank/]: 73677 handling client fire request
+[02Aug2025 04:59:33.678] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 9
+[02Aug2025 04:59:33.678] [Server thread/DEBUG] [pointblank/]: 73678 - obtained hit result in 0ms
+[02Aug2025 04:59:33.678] [Server thread/DEBUG] [pointblank/]: 73678 obtained hit results
+[02Aug2025 04:59:33.678] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6146f01a
+[02Aug2025 04:59:33.679] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.74, y=14.00, z=141.09] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.74, y=14.00, z=141.09]
+[02Aug2025 04:59:35.780] [Server thread/DEBUG] [pointblank/]: 75780 handling client fire request
+[02Aug2025 04:59:35.780] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 8
+[02Aug2025 04:59:35.780] [Server thread/DEBUG] [pointblank/]: 75780 - obtained hit result in 0ms
+[02Aug2025 04:59:35.780] [Server thread/DEBUG] [pointblank/]: 75780 obtained hit results
+[02Aug2025 04:59:35.780] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ad370a9
+[02Aug2025 04:59:35.782] [Server thread/DEBUG] [pointblank/]: Creating state 2b5bf6d8-a2ef-4376-b83c-52457b925387
+[02Aug2025 04:59:35.784] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.66, y=14.00, z=141.70] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.66, y=14.00, z=141.70]
+[02Aug2025 04:59:35.785] [Server thread/DEBUG] [pointblank/]: 75785 handling client fire request
+[02Aug2025 04:59:35.785] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 7
+[02Aug2025 04:59:35.785] [Server thread/DEBUG] [pointblank/]: 75785 - obtained hit result in 0ms
+[02Aug2025 04:59:35.785] [Server thread/DEBUG] [pointblank/]: 75785 obtained hit results
+[02Aug2025 04:59:35.785] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7b6aab2f
+[02Aug2025 04:59:35.785] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.67, y=14.00, z=141.70] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.67, y=14.00, z=141.70]
+[02Aug2025 04:59:39.541] [Server thread/DEBUG] [pointblank/]: 79541 handling client fire request
+[02Aug2025 04:59:39.541] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 6
+[02Aug2025 04:59:39.541] [Server thread/DEBUG] [pointblank/]: 79541 - obtained hit result in 0ms
+[02Aug2025 04:59:39.541] [Server thread/DEBUG] [pointblank/]: 79541 obtained hit results
+[02Aug2025 04:59:39.541] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6c3b20ac
+[02Aug2025 04:59:39.542] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.69, y=14.00, z=141.70] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.69, y=14.00, z=141.70]
+[02Aug2025 04:59:39.542] [Server thread/DEBUG] [pointblank/]: 79542 handling client fire request
+[02Aug2025 04:59:39.542] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 5
+[02Aug2025 04:59:39.543] [Server thread/DEBUG] [pointblank/]: 79543 - obtained hit result in 1ms
+[02Aug2025 04:59:39.543] [Server thread/DEBUG] [pointblank/]: 79543 obtained hit results
+[02Aug2025 04:59:39.543] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@35aacb1a
+[02Aug2025 04:59:39.543] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.84, y=14.00, z=141.70] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.84, y=14.00, z=141.70]
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: 79544 handling client fire request
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 4
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: 79544 - obtained hit result in 0ms
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: 79544 obtained hit results
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f09df8e
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.93, y=14.00, z=141.60] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-211.93, y=14.00, z=141.60]
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: 79544 handling client fire request
+[02Aug2025 04:59:39.544] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 3
+[02Aug2025 04:59:39.545] [Server thread/DEBUG] [pointblank/]: 79545 - obtained hit result in 0ms
+[02Aug2025 04:59:39.545] [Server thread/DEBUG] [pointblank/]: 79545 obtained hit results
+[02Aug2025 04:59:39.545] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@78de431d
+[02Aug2025 04:59:39.545] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.24, y=14.00, z=141.70] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.24, y=14.00, z=141.70]
+[02Aug2025 04:59:39.546] [Server thread/DEBUG] [pointblank/]: 79546 handling client fire request
+[02Aug2025 04:59:39.546] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 2
+[02Aug2025 04:59:39.546] [Server thread/DEBUG] [pointblank/]: 79546 - obtained hit result in 0ms
+[02Aug2025 04:59:39.546] [Server thread/DEBUG] [pointblank/]: 79546 obtained hit results
+[02Aug2025 04:59:39.546] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4dd522ea
+[02Aug2025 04:59:39.546] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.70, y=14.00, z=141.53] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.70, y=14.00, z=141.53]
+[02Aug2025 04:59:39.548] [Server thread/DEBUG] [pointblank/]: 79548 handling client fire request
+[02Aug2025 04:59:39.548] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 1
+[02Aug2025 04:59:39.548] [Server thread/DEBUG] [pointblank/]: 79548 - obtained hit result in 0ms
+[02Aug2025 04:59:39.548] [Server thread/DEBUG] [pointblank/]: 79548 obtained hit results
+[02Aug2025 04:59:39.548] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ec4d251
+[02Aug2025 04:59:39.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.70, y=14.00, z=141.27] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.70, y=14.00, z=141.27]
+[02Aug2025 04:59:39.550] [Server thread/DEBUG] [pointblank/]: 79550 handling client fire request
+[02Aug2025 04:59:39.550] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 0
+[02Aug2025 04:59:39.550] [Server thread/DEBUG] [pointblank/]: 79550 - obtained hit result in 0ms
+[02Aug2025 04:59:39.550] [Server thread/DEBUG] [pointblank/]: 79550 obtained hit results
+[02Aug2025 04:59:39.550] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@f108da8
+[02Aug2025 04:59:39.550] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.70, y=14.00, z=141.01] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-212.70, y=14.00, z=141.01]
+[02Aug2025 04:59:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dale
+[02Aug2025 04:59:39.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3485ms or 69 ticks behind
+[02Aug2025 04:59:40.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa
+[02Aug2025 04:59:46.143] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 17
+[02Aug2025 04:59:49.559] [Server thread/DEBUG] [pointblank/]: 89559 handling client fire request
+[02Aug2025 04:59:49.559] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 16
+[02Aug2025 04:59:49.559] [Server thread/DEBUG] [pointblank/]: 89559 - obtained hit result in 0ms
+[02Aug2025 04:59:49.559] [Server thread/DEBUG] [pointblank/]: 89559 obtained hit results
+[02Aug2025 04:59:49.559] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@72535c85
+[02Aug2025 04:59:49.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.23, y=63.00, z=-364.14] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.23, y=63.00, z=-364.14]
+[02Aug2025 04:59:49.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.23, y=63.00, z=-364.14] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=590.69, y=63.00, z=-364.84]
+[02Aug2025 04:59:49.563] [Server thread/DEBUG] [pointblank/]: 89563 handling client fire request
+[02Aug2025 04:59:49.563] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 15
+[02Aug2025 04:59:49.563] [Server thread/DEBUG] [pointblank/]: 89563 - obtained hit result in 0ms
+[02Aug2025 04:59:49.563] [Server thread/DEBUG] [pointblank/]: 89563 obtained hit results
+[02Aug2025 04:59:49.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c2c2cd7
+[02Aug2025 04:59:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by morax
+[02Aug2025 04:59:49.569] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.30, y=63.00, z=-364.39] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.30, y=63.00, z=-364.39]
+[02Aug2025 04:59:49.569] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.30, y=63.00, z=-364.39] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=590.77, y=63.00, z=-364.67]
+[02Aug2025 04:59:49.571] [Server thread/DEBUG] [pointblank/]: 89571 handling client fire request
+[02Aug2025 04:59:49.571] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 04:59:49.571] [Server thread/DEBUG] [pointblank/]: 89571 - obtained hit result in 0ms
+[02Aug2025 04:59:49.571] [Server thread/DEBUG] [pointblank/]: 89571 obtained hit results
+[02Aug2025 04:59:49.571] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e13d69
+[02Aug2025 04:59:49.573] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.48, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.48, y=63.00, z=-364.70]
+[02Aug2025 04:59:49.573] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.48, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=590.95, y=63.00, z=-364.42]
+[02Aug2025 04:59:49.575] [Server thread/DEBUG] [pointblank/]: 89575 handling client fire request
+[02Aug2025 04:59:49.575] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 04:59:49.575] [Server thread/DEBUG] [pointblank/]: 89575 - obtained hit result in 0ms
+[02Aug2025 04:59:49.575] [Server thread/DEBUG] [pointblank/]: 89575 obtained hit results
+[02Aug2025 04:59:49.575] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cc5085a
+[02Aug2025 04:59:51.949] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.71, y=63.00, z=-365.05] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.71, y=63.00, z=-365.05]
+[02Aug2025 04:59:51.949] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.71, y=63.00, z=-365.05] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.18, y=63.00, z=-364.10]
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: 91991 handling client fire request
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 12
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: 91991 - obtained hit result in 0ms
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: 91991 obtained hit results
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@49cbf6b9
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.90, y=63.00, z=-365.48] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.90, y=63.00, z=-365.48]
+[02Aug2025 04:59:51.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.90, y=63.00, z=-365.48] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.43, y=63.00, z=-363.71]
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: 91993 handling client fire request
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 11
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: 91993 - obtained hit result in 0ms
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: 91993 obtained hit results
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6bd348ab
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.08, y=63.00, z=-365.97] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.08, y=63.00, z=-365.97]
+[02Aug2025 04:59:51.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.08, y=63.00, z=-365.97] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.58, y=63.00, z=-363.41]
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: 91995 handling client fire request
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 10
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: 91995 - obtained hit result in 0ms
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: 91995 obtained hit results
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@430020ed
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.25, y=63.00, z=-366.48] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.25, y=63.00, z=-366.48]
+[02Aug2025 04:59:51.995] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.25, y=63.00, z=-366.48] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.79, y=63.00, z=-362.93]
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: 91996 handling client fire request
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 9
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: 91996 - obtained hit result in 0ms
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: 91996 obtained hit results
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d994b18
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.43, y=63.00, z=-367.02] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.43, y=63.00, z=-367.02]
+[02Aug2025 04:59:51.996] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.43, y=63.00, z=-367.02] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.99, y=63.00, z=-362.22]
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: 91999 handling client fire request
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 8
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: 91999 - obtained hit result in 0ms
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: 91999 obtained hit results
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b71082c
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.61, y=63.00, z=-367.58] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.61, y=63.00, z=-367.58]
+[02Aug2025 04:59:51.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.61, y=63.00, z=-367.58] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=592.04, y=63.00, z=-361.86]
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: 92003 handling client fire request
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 7
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: 92003 - obtained hit result in 0ms
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: 92003 obtained hit results
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a969ff9
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.78, y=63.00, z=-368.15] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.78, y=63.00, z=-368.15]
+[02Aug2025 04:59:52.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.78, y=63.00, z=-368.15] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=592.03, y=63.00, z=-361.44]
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: 92007 handling client fire request
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 6
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: 92007 - obtained hit result in 0ms
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: 92007 obtained hit results
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@38d3cf0e
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.96, y=63.00, z=-368.73] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.96, y=63.00, z=-368.73]
+[02Aug2025 04:59:52.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.96, y=63.00, z=-368.73] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.80, y=63.00, z=-361.18]
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: 92009 handling client fire request
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 5
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: 92009 - obtained hit result in 0ms
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: 92009 obtained hit results
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6fc59287
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.13, y=63.00, z=-369.31] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.13, y=63.00, z=-369.31]
+[02Aug2025 04:59:52.009] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.13, y=63.00, z=-369.31] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.69, y=63.00, z=-361.11]
+[02Aug2025 04:59:52.011] [Server thread/DEBUG] [pointblank/]: 92011 handling client fire request
+[02Aug2025 04:59:52.011] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 4
+[02Aug2025 04:59:52.012] [Server thread/DEBUG] [pointblank/]: 92012 - obtained hit result in 1ms
+[02Aug2025 04:59:52.012] [Server thread/DEBUG] [pointblank/]: 92012 obtained hit results
+[02Aug2025 04:59:52.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6cf6c73b
+[02Aug2025 04:59:52.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.31, y=63.00, z=-369.90] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.31, y=63.00, z=-369.90]
+[02Aug2025 04:59:52.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.31, y=63.00, z=-369.90] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.55, y=63.00, z=-361.00]
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: 92014 handling client fire request
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 3
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: 92014 - obtained hit result in 0ms
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: 92014 obtained hit results
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22d1f40b
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.48, y=63.00, z=-370.49] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.48, y=63.00, z=-370.49]
+[02Aug2025 04:59:52.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=591.48, y=63.00, z=-370.49] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.47, y=63.00, z=-360.95]
+[02Aug2025 04:59:52.031] [Server thread/DEBUG] [pointblank/]: 92031 handling client fire request
+[02Aug2025 04:59:52.031] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 16
+[02Aug2025 04:59:52.031] [Server thread/DEBUG] [pointblank/]: 92031 - obtained hit result in 0ms
+[02Aug2025 04:59:52.031] [Server thread/DEBUG] [pointblank/]: 92031 obtained hit results
+[02Aug2025 04:59:52.031] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@45ce4e0
+[02Aug2025 04:59:52.031] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-185.28, y=22.00, z=131.62] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-185.28, y=22.00, z=131.62]
+[02Aug2025 04:59:52.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pinga
+[02Aug2025 04:59:53.464] [Server thread/DEBUG] [pointblank/]: 93464 handling client fire request
+[02Aug2025 04:59:53.465] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 2
+[02Aug2025 04:59:53.465] [Server thread/DEBUG] [pointblank/]: 93465 - obtained hit result in 0ms
+[02Aug2025 04:59:53.465] [Server thread/DEBUG] [pointblank/]: 93465 obtained hit results
+[02Aug2025 04:59:53.465] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@741366a9
+[02Aug2025 04:59:53.465] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.11, y=63.00, z=-372.44] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.11, y=63.00, z=-372.44]
+[02Aug2025 04:59:53.594] [Server thread/DEBUG] [pointblank/]: 93594 handling client fire request
+[02Aug2025 04:59:53.594] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 1
+[02Aug2025 04:59:53.594] [Server thread/DEBUG] [pointblank/]: 93594 - obtained hit result in 0ms
+[02Aug2025 04:59:53.594] [Server thread/DEBUG] [pointblank/]: 93594 obtained hit results
+[02Aug2025 04:59:53.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58bec091
+[02Aug2025 04:59:53.596] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.11, y=63.00, z=-372.47] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.11, y=63.00, z=-372.47]
+[02Aug2025 04:59:55.328] [Server thread/DEBUG] [pointblank/]: 95328 handling client fire request
+[02Aug2025 04:59:55.328] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 0
+[02Aug2025 04:59:55.328] [Server thread/DEBUG] [pointblank/]: 95328 - obtained hit result in 0ms
+[02Aug2025 04:59:55.328] [Server thread/DEBUG] [pointblank/]: 95328 obtained hit results
+[02Aug2025 04:59:55.328] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@41f16f97
+[02Aug2025 04:59:55.328] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.11, y=63.00, z=-372.48] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.11, y=63.00, z=-372.48]
+[02Aug2025 04:59:55.329] [Server thread/DEBUG] [pointblank/]: 95329 handling client fire request
+[02Aug2025 04:59:55.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 1.4263365907991385,3.1661092609382138,-9.46156573755745
+[02Aug2025 04:59:55.548] [Server thread/DEBUG] [pointblank/]: 95548 handling client fire request
+[02Aug2025 04:59:55.753] [Server thread/DEBUG] [pointblank/]: 95753 handling client fire request
+[02Aug2025 04:59:55.881] [Server thread/DEBUG] [pointblank/]: 95881 handling client fire request
+[02Aug2025 04:59:56.055] [Server thread/DEBUG] [pointblank/]: 96055 handling client fire request
+[02Aug2025 04:59:56.371] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754110796351
+[02Aug2025 04:59:56.372] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 04:59:56.372] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 04:59:59.233] [Server thread/DEBUG] [pointblank/]: 99233 handling client fire request
+[02Aug2025 04:59:59.236] [Server thread/DEBUG] [pointblank/]: 99236 handling client fire request
+[02Aug2025 04:59:59.238] [Server thread/DEBUG] [pointblank/]: 99238 handling client fire request
+[02Aug2025 04:59:59.243] [Server thread/DEBUG] [pointblank/]: 99243 handling client fire request
+[02Aug2025 04:59:59.244] [Server thread/DEBUG] [pointblank/]: 99244 handling client fire request
+[02Aug2025 04:59:59.246] [Server thread/DEBUG] [pointblank/]: 99246 handling client fire request
+[02Aug2025 04:59:59.247] [Server thread/DEBUG] [pointblank/]: 99247 handling client fire request
+[02Aug2025 04:59:59.248] [Server thread/DEBUG] [pointblank/]: 99248 handling client fire request
+[02Aug2025 04:59:59.663] [Server thread/DEBUG] [pointblank/]: 99663 handling client fire request
+[02Aug2025 05:00:00.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5789ms or 115 ticks behind
+[02Aug2025 05:00:01.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tenia stand
+[02Aug2025 05:00:02.768] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 14
+[02Aug2025 05:00:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david ayuda esto es insingable
+[02Aug2025 05:00:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me asuste
+[02Aug2025 05:00:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
+[02Aug2025 05:00:18.075] [Server thread/DEBUG] [pointblank/]: 18075 handling client fire request
+[02Aug2025 05:00:18.075] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 13
+[02Aug2025 05:00:18.075] [Server thread/DEBUG] [pointblank/]: 18075 - obtained hit result in 0ms
+[02Aug2025 05:00:18.075] [Server thread/DEBUG] [pointblank/]: 18075 obtained hit results
+[02Aug2025 05:00:18.075] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39e7f2d4
+[02Aug2025 05:00:18.077] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70]
+[02Aug2025 05:00:18.077] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=597.78, y=63.00, z=-365.43]
+[02Aug2025 05:00:18.715] [Server thread/DEBUG] [pointblank/]: 18715 handling client fire request
+[02Aug2025 05:00:18.715] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 12
+[02Aug2025 05:00:18.715] [Server thread/DEBUG] [pointblank/]: 18715 - obtained hit result in 0ms
+[02Aug2025 05:00:18.716] [Server thread/DEBUG] [pointblank/]: 18716 obtained hit results
+[02Aug2025 05:00:18.716] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53235452
+[02Aug2025 05:00:18.716] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70]
+[02Aug2025 05:00:18.716] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=595.77, y=63.00, z=-362.43]
+[02Aug2025 05:00:19.270] [Server thread/DEBUG] [pointblank/]: 19270 handling client fire request
+[02Aug2025 05:00:19.270] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 11
+[02Aug2025 05:00:19.271] [Server thread/DEBUG] [pointblank/]: 19271 - obtained hit result in 1ms
+[02Aug2025 05:00:19.271] [Server thread/DEBUG] [pointblank/]: 19271 obtained hit results
+[02Aug2025 05:00:19.271] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3cd0a408
+[02Aug2025 05:00:19.273] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70]
+[02Aug2025 05:00:19.273] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=593.00, y=63.00, z=-361.51]
+[02Aug2025 05:00:19.617] [Server thread/DEBUG] [pointblank/]: 19617 handling client fire request
+[02Aug2025 05:00:19.617] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 10
+[02Aug2025 05:00:19.617] [Server thread/DEBUG] [pointblank/]: 19617 - obtained hit result in 0ms
+[02Aug2025 05:00:19.617] [Server thread/DEBUG] [pointblank/]: 19617 obtained hit results
+[02Aug2025 05:00:19.617] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58b272c8
+[02Aug2025 05:00:19.619] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70]
+[02Aug2025 05:00:19.619] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=591.05, y=63.00, z=-361.89]
+[02Aug2025 05:00:20.531] [Server thread/DEBUG] [pointblank/]: 20531 handling client fire request
+[02Aug2025 05:00:20.531] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 9
+[02Aug2025 05:00:20.531] [Server thread/DEBUG] [pointblank/]: 20531 - obtained hit result in 0ms
+[02Aug2025 05:00:20.531] [Server thread/DEBUG] [pointblank/]: 20531 obtained hit results
+[02Aug2025 05:00:20.531] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c4cd9af
+[02Aug2025 05:00:20.533] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70]
+[02Aug2025 05:00:20.533] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=588.77, y=63.00, z=-364.14]
+[02Aug2025 05:00:21.374] [Server thread/DEBUG] [pointblank/]: 21374 handling client fire request
+[02Aug2025 05:00:21.374] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 8
+[02Aug2025 05:00:21.374] [Server thread/DEBUG] [pointblank/]: 21374 - obtained hit result in 0ms
+[02Aug2025 05:00:21.374] [Server thread/DEBUG] [pointblank/]: 21374 obtained hit results
+[02Aug2025 05:00:21.374] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62b65cec
+[02Aug2025 05:00:21.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Asriel'/61129, l='ServerLevel[Mundo nuevo]', x=585.31, y=50.04, z=-374.47] died: Asriel's Zombie was slain by morax
+[02Aug2025 05:00:21.381] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70]
+[02Aug2025 05:00:21.382] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.62, y=63.00, z=-364.70] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=588.76, y=63.00, z=-364.84]
+[02Aug2025 05:00:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> damelo
+[02Aug2025 05:00:24.941] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 17
+[02Aug2025 05:00:34.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tus cosas estan subiendo
+[02Aug2025 05:00:36.920] [Server thread/DEBUG] [pointblank/]: 36920 handling client fire request
+[02Aug2025 05:00:36.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 16
+[02Aug2025 05:00:36.920] [Server thread/DEBUG] [pointblank/]: 36920 - obtained hit result in 0ms
+[02Aug2025 05:00:36.920] [Server thread/DEBUG] [pointblank/]: 36920 obtained hit results
+[02Aug2025 05:00:36.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@411f996c
+[02Aug2025 05:00:36.922] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:38.992] [Server thread/DEBUG] [pointblank/]: 38992 handling client fire request
+[02Aug2025 05:00:38.992] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 15
+[02Aug2025 05:00:38.992] [Server thread/DEBUG] [pointblank/]: 38992 - obtained hit result in 0ms
+[02Aug2025 05:00:38.992] [Server thread/DEBUG] [pointblank/]: 38992 obtained hit results
+[02Aug2025 05:00:38.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b5b5c75
+[02Aug2025 05:00:38.994] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:39.788] [Server thread/DEBUG] [pointblank/]: 39788 handling client fire request
+[02Aug2025 05:00:39.788] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 14
+[02Aug2025 05:00:39.788] [Server thread/DEBUG] [pointblank/]: 39788 - obtained hit result in 0ms
+[02Aug2025 05:00:39.788] [Server thread/DEBUG] [pointblank/]: 39788 obtained hit results
+[02Aug2025 05:00:39.788] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@288f1ffe
+[02Aug2025 05:00:39.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:40.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a
+[02Aug2025 05:00:40.968] [Server thread/DEBUG] [pointblank/]: 40968 handling client fire request
+[02Aug2025 05:00:40.968] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 13
+[02Aug2025 05:00:40.969] [Server thread/DEBUG] [pointblank/]: 40969 - obtained hit result in 1ms
+[02Aug2025 05:00:40.969] [Server thread/DEBUG] [pointblank/]: 40969 obtained hit results
+[02Aug2025 05:00:40.969] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6439a71
+[02Aug2025 05:00:40.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:41.916] [Server thread/DEBUG] [pointblank/]: 41916 handling client fire request
+[02Aug2025 05:00:41.916] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 12
+[02Aug2025 05:00:41.916] [Server thread/DEBUG] [pointblank/]: 41916 - obtained hit result in 0ms
+[02Aug2025 05:00:41.916] [Server thread/DEBUG] [pointblank/]: 41916 obtained hit results
+[02Aug2025 05:00:41.916] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@167fc840
+[02Aug2025 05:00:41.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te convertiste en zombi
+[02Aug2025 05:00:43.318] [Server thread/DEBUG] [pointblank/]: 43318 handling client fire request
+[02Aug2025 05:00:43.318] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 11
+[02Aug2025 05:00:43.318] [Server thread/DEBUG] [pointblank/]: 43318 - obtained hit result in 0ms
+[02Aug2025 05:00:43.318] [Server thread/DEBUG] [pointblank/]: 43318 obtained hit results
+[02Aug2025 05:00:43.318] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bcb18f9
+[02Aug2025 05:00:43.320] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: 43886 handling client fire request
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 7
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: 43886 - obtained hit result in 0ms
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: 43886 obtained hit results
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3517dbe6
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.29, y=63.00, z=-364.29] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.29, y=63.00, z=-364.29]
+[02Aug2025 05:00:43.886] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.29, y=63.00, z=-364.29] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=583.65, y=62.22, z=-374.47]
+[02Aug2025 05:00:44.067] [Server thread/DEBUG] [pointblank/]: 44067 handling client fire request
+[02Aug2025 05:00:44.067] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 6
+[02Aug2025 05:00:44.067] [Server thread/DEBUG] [pointblank/]: 44067 - obtained hit result in 0ms
+[02Aug2025 05:00:44.067] [Server thread/DEBUG] [pointblank/]: 44067 obtained hit results
+[02Aug2025 05:00:44.067] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3b57ea6a
+[02Aug2025 05:00:44.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.50, y=63.00, z=-364.11] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.50, y=63.00, z=-364.11]
+[02Aug2025 05:00:44.068] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.50, y=63.00, z=-364.11] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=583.54, y=62.27, z=-374.70]
+[02Aug2025 05:00:44.228] [Server thread/DEBUG] [pointblank/]: 44228 handling client fire request
+[02Aug2025 05:00:44.228] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 5
+[02Aug2025 05:00:44.228] [Server thread/DEBUG] [pointblank/]: 44228 - obtained hit result in 0ms
+[02Aug2025 05:00:44.228] [Server thread/DEBUG] [pointblank/]: 44228 obtained hit results
+[02Aug2025 05:00:44.228] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2a2623c1
+[02Aug2025 05:00:44.229] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.75, y=63.00, z=-364.01] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.75, y=63.00, z=-364.01]
+[02Aug2025 05:00:44.229] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=585.75, y=63.00, z=-364.01] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=583.26, y=62.49, z=-374.98]
+[02Aug2025 05:00:44.420] [Server thread/DEBUG] [pointblank/]: 44420 handling client fire request
+[02Aug2025 05:00:44.420] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 4
+[02Aug2025 05:00:44.420] [Server thread/DEBUG] [pointblank/]: 44420 - obtained hit result in 0ms
+[02Aug2025 05:00:44.420] [Server thread/DEBUG] [pointblank/]: 44420 obtained hit results
+[02Aug2025 05:00:44.420] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3eed8984
+[02Aug2025 05:00:44.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.39, y=63.00, z=-363.99] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.39, y=63.00, z=-363.99]
+[02Aug2025 05:00:44.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=586.39, y=63.00, z=-363.99] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=583.01, y=62.49, z=-375.02]
+[02Aug2025 05:00:44.495] [Server thread/DEBUG] [pointblank/]: 44495 handling client fire request
+[02Aug2025 05:00:44.495] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 10
+[02Aug2025 05:00:44.495] [Server thread/DEBUG] [pointblank/]: 44495 - obtained hit result in 0ms
+[02Aug2025 05:00:44.495] [Server thread/DEBUG] [pointblank/]: 44495 obtained hit results
+[02Aug2025 05:00:44.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@375cdeb5
+[02Aug2025 05:00:44.497] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:44.626] [Server thread/DEBUG] [pointblank/]: 44626 handling client fire request
+[02Aug2025 05:00:44.626] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 3
+[02Aug2025 05:00:44.626] [Server thread/DEBUG] [pointblank/]: 44626 - obtained hit result in 0ms
+[02Aug2025 05:00:44.626] [Server thread/DEBUG] [pointblank/]: 44626 obtained hit results
+[02Aug2025 05:00:44.626] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2890ea54
+[02Aug2025 05:00:44.627] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=587.24, y=63.00, z=-363.60] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=587.24, y=63.00, z=-363.60]
+[02Aug2025 05:00:44.627] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=587.24, y=63.00, z=-363.60] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=582.68, y=62.44, z=-375.06]
+[02Aug2025 05:00:44.875] [Server thread/DEBUG] [pointblank/]: 44875 handling client fire request
+[02Aug2025 05:00:44.875] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 2
+[02Aug2025 05:00:44.875] [Server thread/DEBUG] [pointblank/]: 44875 - obtained hit result in 0ms
+[02Aug2025 05:00:44.875] [Server thread/DEBUG] [pointblank/]: 44875 obtained hit results
+[02Aug2025 05:00:44.875] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5507517d
+[02Aug2025 05:00:44.877] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=588.42, y=63.00, z=-362.42] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=588.42, y=63.00, z=-362.42]
+[02Aug2025 05:00:44.878] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=588.42, y=63.00, z=-362.42] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=582.64, y=62.33, z=-375.29]
+[02Aug2025 05:00:45.229] [Server thread/DEBUG] [pointblank/]: 45229 handling client fire request
+[02Aug2025 05:00:45.229] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 1
+[02Aug2025 05:00:45.230] [Server thread/DEBUG] [pointblank/]: 45230 - obtained hit result in 1ms
+[02Aug2025 05:00:45.230] [Server thread/DEBUG] [pointblank/]: 45230 obtained hit results
+[02Aug2025 05:00:45.230] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b6dc600
+[02Aug2025 05:00:45.231] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.94, y=63.00, z=-361.51] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.94, y=63.00, z=-361.51]
+[02Aug2025 05:00:45.232] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=589.94, y=63.00, z=-361.51] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=582.77, y=62.17, z=-375.84]
+[02Aug2025 05:00:45.371] [Server thread/DEBUG] [pointblank/]: 45371 handling client fire request
+[02Aug2025 05:00:45.372] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 420416750 to 0
+[02Aug2025 05:00:45.372] [Server thread/DEBUG] [pointblank/]: 45372 - obtained hit result in 0ms
+[02Aug2025 05:00:45.372] [Server thread/DEBUG] [pointblank/]: 45372 obtained hit results
+[02Aug2025 05:00:45.372] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@e327836
+[02Aug2025 05:00:45.372] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.58, y=63.00, z=-361.37] sends hit scan notification to ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.58, y=63.00, z=-361.37]
+[02Aug2025 05:00:45.372] [Server thread/DEBUG] [pointblank/]: ServerPlayer['morax'/255, l='ServerLevel[Mundo nuevo]', x=590.58, y=63.00, z=-361.37] sends hit scan notification to ServerPlayer['Asriel'/19549, l='ServerLevel[Mundo nuevo]', x=582.88, y=62.09, z=-376.08]
+[02Aug2025 05:00:46.169] [Server thread/DEBUG] [pointblank/]: 46169 handling client fire request
+[02Aug2025 05:00:46.169] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 9
+[02Aug2025 05:00:46.169] [Server thread/DEBUG] [pointblank/]: 46169 - obtained hit result in 0ms
+[02Aug2025 05:00:46.169] [Server thread/DEBUG] [pointblank/]: 46169 obtained hit results
+[02Aug2025 05:00:46.169] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@290d05b2
+[02Aug2025 05:00:46.170] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:47.342] [Server thread/DEBUG] [pointblank/]: 47342 handling client fire request
+[02Aug2025 05:00:47.342] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 8
+[02Aug2025 05:00:47.342] [Server thread/DEBUG] [pointblank/]: 47342 - obtained hit result in 0ms
+[02Aug2025 05:00:47.342] [Server thread/DEBUG] [pointblank/]: 47342 obtained hit results
+[02Aug2025 05:00:47.342] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5bdcbdbe
+[02Aug2025 05:00:47.344] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:48.217] [Server thread/DEBUG] [pointblank/]: 48217 handling client fire request
+[02Aug2025 05:00:48.217] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 7
+[02Aug2025 05:00:48.217] [Server thread/DEBUG] [pointblank/]: 48217 - obtained hit result in 0ms
+[02Aug2025 05:00:48.217] [Server thread/DEBUG] [pointblank/]: 48217 obtained hit results
+[02Aug2025 05:00:48.217] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a9edd32
+[02Aug2025 05:00:48.219] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:49.421] [Server thread/DEBUG] [pointblank/]: 49421 handling client fire request
+[02Aug2025 05:00:49.421] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 6
+[02Aug2025 05:00:49.421] [Server thread/DEBUG] [pointblank/]: 49421 - obtained hit result in 0ms
+[02Aug2025 05:00:49.421] [Server thread/DEBUG] [pointblank/]: 49421 obtained hit results
+[02Aug2025 05:00:49.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b82a456
+[02Aug2025 05:00:49.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:49.932] [Server thread/DEBUG] [pointblank/]: 49932 handling client fire request
+[02Aug2025 05:00:49.932] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 5
+[02Aug2025 05:00:49.932] [Server thread/DEBUG] [pointblank/]: 49932 - obtained hit result in 0ms
+[02Aug2025 05:00:49.932] [Server thread/DEBUG] [pointblank/]: 49932 obtained hit results
+[02Aug2025 05:00:49.932] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ff90a78
+[02Aug2025 05:00:49.932] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:50.766] [Server thread/DEBUG] [pointblank/]: 50766 handling client fire request
+[02Aug2025 05:00:50.766] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 4
+[02Aug2025 05:00:50.767] [Server thread/DEBUG] [pointblank/]: 50767 - obtained hit result in 0ms
+[02Aug2025 05:00:50.767] [Server thread/DEBUG] [pointblank/]: 50767 obtained hit results
+[02Aug2025 05:00:50.767] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b368dbc
+[02Aug2025 05:00:50.769] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:52.155] [Server thread/DEBUG] [pointblank/]: 52155 handling client fire request
+[02Aug2025 05:00:52.155] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 3
+[02Aug2025 05:00:52.155] [Server thread/DEBUG] [pointblank/]: 52155 - obtained hit result in 0ms
+[02Aug2025 05:00:52.155] [Server thread/DEBUG] [pointblank/]: 52155 obtained hit results
+[02Aug2025 05:00:52.155] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@753f81e5
+[02Aug2025 05:00:52.155] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.37, y=35.00, z=107.80]
+[02Aug2025 05:00:53.769] [Server thread/DEBUG] [pointblank/]: 53769 handling client fire request
+[02Aug2025 05:00:53.769] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 2
+[02Aug2025 05:00:53.770] [Server thread/DEBUG] [pointblank/]: 53770 - obtained hit result in 0ms
+[02Aug2025 05:00:53.770] [Server thread/DEBUG] [pointblank/]: 53770 obtained hit results
+[02Aug2025 05:00:53.770] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@219ea040
+[02Aug2025 05:00:53.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.33, y=35.00, z=107.85] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.33, y=35.00, z=107.85]
+[02Aug2025 05:00:54.877] [Server thread/DEBUG] [pointblank/]: 54877 handling client fire request
+[02Aug2025 05:00:54.877] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 1
+[02Aug2025 05:00:54.877] [Server thread/DEBUG] [pointblank/]: 54877 - obtained hit result in 0ms
+[02Aug2025 05:00:54.877] [Server thread/DEBUG] [pointblank/]: 54877 obtained hit results
+[02Aug2025 05:00:54.877] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6dfb4de4
+[02Aug2025 05:00:54.879] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.33, y=35.00, z=107.85] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.33, y=35.00, z=107.85]
+[02Aug2025 05:00:55.976] [Server thread/DEBUG] [pointblank/]: 55976 handling client fire request
+[02Aug2025 05:00:55.976] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 0
+[02Aug2025 05:00:55.976] [Server thread/DEBUG] [pointblank/]: 55976 - obtained hit result in 0ms
+[02Aug2025 05:00:55.976] [Server thread/DEBUG] [pointblank/]: 55976 obtained hit results
+[02Aug2025 05:00:55.976] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@16c0d945
+[02Aug2025 05:00:55.976] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.33, y=35.00, z=107.85] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.33, y=35.00, z=107.85]
+[02Aug2025 05:00:58.039] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 17
+[02Aug2025 05:01:00.487] [Server thread/DEBUG] [pointblank/]: 60487 handling client fire request
+[02Aug2025 05:01:00.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 16
+[02Aug2025 05:01:00.487] [Server thread/DEBUG] [pointblank/]: 60487 - obtained hit result in 0ms
+[02Aug2025 05:01:00.487] [Server thread/DEBUG] [pointblank/]: 60487 obtained hit results
+[02Aug2025 05:01:00.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@55d6f72c
+[02Aug2025 05:01:00.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.61, y=35.00, z=107.69] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.61, y=35.00, z=107.69]
+[02Aug2025 05:01:01.564] [Server thread/DEBUG] [pointblank/]: 61564 handling client fire request
+[02Aug2025 05:01:01.564] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 15
+[02Aug2025 05:01:01.564] [Server thread/DEBUG] [pointblank/]: 61564 - obtained hit result in 0ms
+[02Aug2025 05:01:01.564] [Server thread/DEBUG] [pointblank/]: 61564 obtained hit results
+[02Aug2025 05:01:01.564] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45d42ade
+[02Aug2025 05:01:01.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79]
+[02Aug2025 05:01:02.887] [Server thread/DEBUG] [pointblank/]: 62887 handling client fire request
+[02Aug2025 05:01:02.887] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 14
+[02Aug2025 05:01:02.887] [Server thread/DEBUG] [pointblank/]: 62887 - obtained hit result in 0ms
+[02Aug2025 05:01:02.887] [Server thread/DEBUG] [pointblank/]: 62887 obtained hit results
+[02Aug2025 05:01:02.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a9cfd7f
+[02Aug2025 05:01:02.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79]
+[02Aug2025 05:01:03.766] [Server thread/DEBUG] [pointblank/]: 63766 handling client fire request
+[02Aug2025 05:01:03.766] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 13
+[02Aug2025 05:01:03.766] [Server thread/DEBUG] [pointblank/]: 63766 - obtained hit result in 0ms
+[02Aug2025 05:01:03.766] [Server thread/DEBUG] [pointblank/]: 63766 obtained hit results
+[02Aug2025 05:01:03.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11ea5738
+[02Aug2025 05:01:03.770] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79]
+[02Aug2025 05:01:04.694] [Server thread/DEBUG] [pointblank/]: 64694 handling client fire request
+[02Aug2025 05:01:04.694] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 12
+[02Aug2025 05:01:04.694] [Server thread/DEBUG] [pointblank/]: 64694 - obtained hit result in 0ms
+[02Aug2025 05:01:04.694] [Server thread/DEBUG] [pointblank/]: 64694 obtained hit results
+[02Aug2025 05:01:04.694] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1f437342
+[02Aug2025 05:01:04.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79]
+[02Aug2025 05:01:05.493] [Server thread/DEBUG] [pointblank/]: 65493 handling client fire request
+[02Aug2025 05:01:05.493] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 11
+[02Aug2025 05:01:05.493] [Server thread/DEBUG] [pointblank/]: 65493 - obtained hit result in 0ms
+[02Aug2025 05:01:05.493] [Server thread/DEBUG] [pointblank/]: 65493 obtained hit results
+[02Aug2025 05:01:05.493] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52546d43
+[02Aug2025 05:01:05.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79]
+[02Aug2025 05:01:06.944] [Server thread/DEBUG] [pointblank/]: 66944 handling client fire request
+[02Aug2025 05:01:06.944] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 159219848 to 10
+[02Aug2025 05:01:06.944] [Server thread/DEBUG] [pointblank/]: 66944 - obtained hit result in 0ms
+[02Aug2025 05:01:06.944] [Server thread/DEBUG] [pointblank/]: 66944 obtained hit results
+[02Aug2025 05:01:06.944] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37921786
+[02Aug2025 05:01:06.947] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79] sends hit scan notification to ServerPlayer['Dalej'/251, l='ServerLevel[Mundo nuevo]', x=-178.53, y=35.00, z=107.79]
+[02Aug2025 05:01:24.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay q hacer q se caigan pal agua
+[02Aug2025 05:01:36.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david dame a made in heaven pa q esto esté igualado ;
+[02Aug2025 05:01:48.861] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 38 messages to dispatch.
+[02Aug2025 05:01:48.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[02Aug2025 05:01:48.923] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[02Aug2025 05:01:48.966] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[02Aug2025 05:01:49.014] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[02Aug2025 05:01:49.069] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry jcraft:stand_type' to 'fml:handshake' sequence 4
+[02Aug2025 05:01:49.119] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 5
+[02Aug2025 05:01:49.140] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[02Aug2025 05:01:49.140] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[02Aug2025 05:01:49.140] [Netty Epoll Server IO #1/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[02Aug2025 05:01:49.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[02Aug2025 05:01:49.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[02Aug2025 05:01:49.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, man_of_many_planes, almanac, geckolib, cure, playeranimator, incontrol, satako, dynamiclights, immersive_aircraft, sophisticatedcore, insanelib, neat, golemsarefriends, configurableextramobdrops, xaeroworldmap, enhancedvisuals, citadel, zombieawareness, yungsapi, mixinextras, bookshelf, sophisticatedbackpacks, hordes, k_turrets, jeresources, cloth_config, sound_physics_remastered, embeddium, rubidium, corpse, entity_model_features, entity_texture_features, ambientsounds, bettertags, gml, propertymodifier, curios, oculus, collective, commongroovylibrary, noisium, lostcities, pointblank, atlaslib, starterkit, scalingmobs, eatinganimation, architectury, cupboard, ageingspawners, transition, enhancedai, strayed_fates_forsaken, ags_day_counter, letmedespawn, bettermineshafts, no_ruined_nether_portals, ftblibrary, jei, tacz, trender, immersive_weathering, keerdm_zombie_essentials, marbledsarsenal, ags_hud_texts, mcore, glitchcore, badmobs, better_mob_food, terralith, experimentalsettingsdisabler, azurelib, jcraft, skinlayers3d, forge, trimmed, tectonic, minecraft, overworld_netherite_ore, jeffsgibbing, enchdesc, moonlight, mousetweaks, creativecore, cleanswing, guccivuitton, fastpaintings, betterfpsdist, marbledsmelees, xaerominimap, securitycraft, parcool, better_zombie_drops, entityculling, ambientenvironment, lios_overhauled_villages, coroutil, nobz, lootr, ferritecore, enhancedcelestials, dataanchor, corgilib, horde_hoard, openloader, presencefootsteps]
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pointblank:pointblank' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '3.4.0.5' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:network_channel' : Version test of '2' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:main' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:network_channel' : Version test of '2.0.0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'better_zombie_drops:better_zombie_drops' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ags_hud_texts:ags_hud_texts' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_select_first_slot_packet' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeffsgibbing:jeffsgibbing' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_weathering:channel' : Version test of '0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:infection' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:entity_tracked_data' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:level_tracked_data' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:hordeevent' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_ask_if_mod_is_installed_packet' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_server_send_kit_choice_packet' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'overworld_netherite_ore:overworld_netherite_ore' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Version test of '1.0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'better_mob_food:better_mob_food' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:chunk_tracked_data' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_server_announce_mod_is_installed_packet' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_receive_kit_data_packet' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'k_turrets:network' : Version test of '1.0' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:block_entity_tracked_data' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cure:cure' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ags_day_counter:ags_day_counter' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[02Aug2025 05:01:49.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[02Aug2025 05:01:49.159] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[02Aug2025 05:01:49.159] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.159] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.171] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 6
+[02Aug2025 05:01:49.205] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[02Aug2025 05:01:49.205] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.205] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.218] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 7
+[02Aug2025 05:01:49.274] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[02Aug2025 05:01:49.326] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[02Aug2025 05:01:49.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[02Aug2025 05:01:49.426] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[02Aug2025 05:01:49.471] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[02Aug2025 05:01:49.473] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[02Aug2025 05:01:49.473] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.473] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.526] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[02Aug2025 05:01:49.576] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[02Aug2025 05:01:49.623] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[02Aug2025 05:01:49.674] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry jcraft:move_action_type' to 'fml:handshake' sequence 16
+[02Aug2025 05:01:49.723] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[02Aug2025 05:01:49.736] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[02Aug2025 05:01:49.736] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.736] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.736] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[02Aug2025 05:01:49.736] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.736] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.737] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[02Aug2025 05:01:49.737] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.737] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.779] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[02Aug2025 05:01:49.822] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[02Aug2025 05:01:49.875] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.890] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.891] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[02Aug2025 05:01:49.891] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.891] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.891] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[02Aug2025 05:01:49.891] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:49.891] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:49.918] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry jcraft:move_condition_type' to 'fml:handshake' sequence 21
+[02Aug2025 05:01:49.970] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[02Aug2025 05:01:50.037] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry jcraft:spec_type' to 'fml:handshake' sequence 23
+[02Aug2025 05:01:50.052] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[02Aug2025 05:01:50.052] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.052] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.053] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.074] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry jcraft:move_type' to 'fml:handshake' sequence 24
+[02Aug2025 05:01:50.118] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 25
+[02Aug2025 05:01:50.167] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[02Aug2025 05:01:50.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[02Aug2025 05:01:50.241] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[02Aug2025 05:01:50.241] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.241] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.241] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[02Aug2025 05:01:50.241] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.241] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.242] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[02Aug2025 05:01:50.242] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.242] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.269] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 28
+[02Aug2025 05:01:50.288] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[02Aug2025 05:01:50.288] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:50.288] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:50.315] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 29
+[02Aug2025 05:01:50.366] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config k_turrets-server.toml' to 'fml:handshake' sequence 30
+[02Aug2025 05:01:50.419] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config incontrol-server.toml' to 'fml:handshake' sequence 31
+[02Aug2025 05:01:50.469] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 32
+[02Aug2025 05:01:50.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostcities-server.toml' to 'fml:handshake' sequence 33
+[02Aug2025 05:01:50.569] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 34
+[02Aug2025 05:01:50.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 35
+[02Aug2025 05:01:50.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 36
+[02Aug2025 05:01:50.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[02Aug2025 05:01:51.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[02Aug2025 05:01:51.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[02Aug2025 05:01:51.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.118] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[02Aug2025 05:01:51.118] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.118] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.119] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[02Aug2025 05:01:51.121] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Aug2025 05:01:51.171] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[02Aug2025 05:01:51.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:35135] logged in with entity id 63936 at (111.50557699907715, 64.0, 636.3712123295877)
+[02Aug2025 05:01:51.224] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@494de665 into net.minecraft.network.Connection@7f55cbb3
+[02Aug2025 05:01:51.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[02Aug2025 05:01:51.901] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754110911542
+[02Aug2025 05:01:52.114] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 669ea7ec-30a7-31a3-8dbe-e7417b6d082f was loaded
+[02Aug2025 05:01:52.114] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [desgo]
+[02Aug2025 05:01:52.114] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [desgo]
+[02Aug2025 05:02:01.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:02:14.555] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7681, y=-56, z=-381}
+[02Aug2025 05:02:18.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sube
+[02Aug2025 05:02:20.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[02Aug2025 05:02:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no hay

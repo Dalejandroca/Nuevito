@@ -1497,3 +1497,256 @@ java.lang.NullPointerException: null
 [02Aug2025 04:14:50.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 2.5298702850868153,0.0,-9.883325281081397
 [02Aug2025 04:14:51.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15479ms or 309 ticks behind
 [02Aug2025 04:15:43.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7054, l='ServerLevel[Mundo nuevo]', x=-204.66, y=70.00, z=-1.30] died, message: 'Farmer was slain by Zombie'
+[02Aug2025 04:16:39.405] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -29,-5: null
+java.lang.NullPointerException: null
+[02Aug2025 04:16:39.406] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:16:39.406] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[02Aug2025 04:16:39.406] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: shopping
+[02Aug2025 04:16:39.406] [Worker-Main-3/INFO] [lostcities/]:     Building: shopping10
+[02Aug2025 04:16:39.406] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:16:39.406] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:16:46.264] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -30,-4: null
+java.lang.NullPointerException: null
+[02Aug2025 04:16:46.264] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:16:46.264] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[02Aug2025 04:16:46.264] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: shopping
+[02Aug2025 04:16:46.264] [Worker-Main-3/INFO] [lostcities/]:     Building: shopping01
+[02Aug2025 04:16:46.265] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:16:46.265] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:16:51.897] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -31,-5: null
+java.lang.NullPointerException: null
+[02Aug2025 04:16:51.897] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:16:51.897] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[02Aug2025 04:16:51.897] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[02Aug2025 04:16:51.897] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open10
+[02Aug2025 04:16:51.898] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:16:51.898] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:18:00.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
+[02Aug2025 04:18:10.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> anda un poco lagueado si
+[02Aug2025 04:18:27.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> aparecen demasiados zombies
+[02Aug2025 04:18:30.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[02Aug2025 04:18:40.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo ando en una cueva
+[02Aug2025 04:18:50.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> x2
+[02Aug2025 04:19:00.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pero hay mas en la superficie q en las cuevas
+[02Aug2025 04:19:30.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44764ms or 895 ticks behind
+[02Aug2025 04:19:52.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -9.738348266532213,-2.0,-1.8785522819518405
+[02Aug2025 04:20:00.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15299ms or 305 ticks behind
+[02Aug2025 04:20:09.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.5.205.70:33613] logged in with entity id 16448 at (767.6288628889182, 94.0, 923.3485171791614)
+[02Aug2025 04:20:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[02Aug2025 04:20:10.411] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[02Aug2025 04:20:10.411] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 04:20:10.411] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 04:20:20.820] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 60,64: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:22.338] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:22.338] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:20:22.339] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: center
+[02Aug2025 04:20:22.339] [Worker-Main-1/INFO] [lostcities/]:     Building: center01
+[02Aug2025 04:20:22.339] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:20:22.339] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:20:22.357] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 60,63: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:22.357] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:22.357] [Worker-Main-2/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:20:22.357] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: center
+[02Aug2025 04:20:22.357] [Worker-Main-2/INFO] [lostcities/]:     Building: center00
+[02Aug2025 04:20:22.358] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:20:22.358] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:20:22.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
+[02Aug2025 04:20:22.595] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 60,62: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:22.595] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:22.596] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:20:22.596] [Worker-Main-3/INFO] [lostcities/]:     Building: building7
+[02Aug2025 04:20:22.596] [Worker-Main-3/INFO] [lostcities/]:         Floors: 2
+[02Aug2025 04:20:22.596] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 4
+[02Aug2025 04:20:22.619] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 60,61: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:22.620] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:22.620] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:20:22.620] [Worker-Main-1/INFO] [lostcities/]:     Building: building4
+[02Aug2025 04:20:22.620] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[02Aug2025 04:20:22.620] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 1
+[02Aug2025 04:20:22.667] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 60,60: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:22.668] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:22.668] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:20:22.668] [Worker-Main-3/INFO] [lostcities/]:     Building: building6
+[02Aug2025 04:20:22.668] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[02Aug2025 04:20:22.668] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[02Aug2025 04:20:22.759] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 60,59: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:22.759] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:22.759] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:20:22.759] [Worker-Main-1/INFO] [lostcities/]:     Building: building8
+[02Aug2025 04:20:22.759] [Worker-Main-1/INFO] [lostcities/]:         Floors: 2
+[02Aug2025 04:20:22.759] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[02Aug2025 04:20:23.787] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 60,57: null
+java.lang.NullPointerException: null
+[02Aug2025 04:20:23.788] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:20:23.788] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:20:23.788] [Worker-Main-1/INFO] [lostcities/]:     Building: building7
+[02Aug2025 04:20:23.788] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[02Aug2025 04:20:23.788] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 1
+[02Aug2025 04:20:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> salamaleco
+[02Aug2025 04:20:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> malecusala
+[02Aug2025 04:20:42.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lingangu
+[02Aug2025 04:20:47.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lingangu
+[02Aug2025 04:20:52.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lingangu
+[02Aug2025 04:21:11.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> estoy viendp a un puto zombie con King Crimsom :(((
+[02Aug2025 04:21:13.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lingangu
+[02Aug2025 04:21:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> polnareff
+[02Aug2025 04:21:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> yo vi a uno con made in heaven
+[02Aug2025 04:21:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ariel tu estas en cueva
+[02Aug2025 04:21:51.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[02Aug2025 04:21:51.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ?
+[02Aug2025 04:21:53.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y despues me preguntan q pq soy cristiano
+[02Aug2025 04:21:53.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no
+[02Aug2025 04:21:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estoy fuera
+[02Aug2025 04:22:01.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a q altura estas
+[02Aug2025 04:22:09.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[02Aug2025 04:22:15.161] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 61,63: null
+java.lang.NullPointerException: null
+[02Aug2025 04:22:15.162] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:22:15.162] [Worker-Main-2/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:22:15.162] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: center
+[02Aug2025 04:22:15.163] [Worker-Main-2/INFO] [lostcities/]:     Building: center10
+[02Aug2025 04:22:15.163] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:22:15.164] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:22:15.190] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 61,64: null
+java.lang.NullPointerException: null
+[02Aug2025 04:22:15.191] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:22:15.191] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:22:15.191] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: center
+[02Aug2025 04:22:15.191] [Worker-Main-1/INFO] [lostcities/]:     Building: center11
+[02Aug2025 04:22:15.191] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[02Aug2025 04:22:15.192] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:22:15.703] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 61,57: null
+java.lang.NullPointerException: null
+[02Aug2025 04:22:15.703] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:22:15.704] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:22:15.704] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[02Aug2025 04:22:15.704] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[02Aug2025 04:22:15.704] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[02Aug2025 04:22:15.729] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 61,56: null
+java.lang.NullPointerException: null
+[02Aug2025 04:22:15.729] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:22:15.729] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:22:15.729] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi1
+[02Aug2025 04:22:15.730] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[02Aug2025 04:22:15.730] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:22:15.730] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[02Aug2025 04:22:15.901] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 61,55: null
+java.lang.NullPointerException: null
+[02Aug2025 04:22:15.901] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:22:15.901] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:22:15.901] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi1
+[02Aug2025 04:22:15.901] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[02Aug2025 04:22:15.901] [Worker-Main-1/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:22:15.902] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[02Aug2025 04:22:16.060] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 61,59: null
+java.lang.NullPointerException: null
+[02Aug2025 04:22:16.060] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:22:16.060] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:22:16.060] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[02Aug2025 04:22:16.060] [Worker-Main-1/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:22:16.060] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[02Aug2025 04:22:28.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[02Aug2025 04:22:28.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[02Aug2025 04:22:28.676] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[02Aug2025 04:22:29.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Monster Hunter]
+[02Aug2025 04:22:50.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.8.14.241:57723] logged in with entity id 22623 at (768.0212304330239, 94.0, 923.805911832305)
+[02Aug2025 04:22:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[02Aug2025 04:22:50.991] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[02Aug2025 04:22:50.991] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 04:22:50.991] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 04:22:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pene
+[02Aug2025 04:23:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa david me he encontrado 3 spawners seguidos de zombis
+[02Aug2025 04:23:14.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> cas
+[02Aug2025 04:23:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> conexioim
+[02Aug2025 04:23:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya
+[02Aug2025 04:23:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Zombie
+[02Aug2025 04:23:25.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[02Aug2025 04:23:26.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 04:23:26.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 04:23:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> bien ya tengo buena conexion
+[02Aug2025 04:23:28.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ijijij
+[02Aug2025 04:23:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> PINGAAA
+[02Aug2025 04:23:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ñio dp
+[02Aug2025 04:23:59.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[02Aug2025 04:24:04.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> za warudo to dio no madei?
+[02Aug2025 04:24:29.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15623ms or 312 ticks behind
+[02Aug2025 04:24:51.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[02Aug2025 04:24:51.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[02Aug2025 04:24:51.094] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was unloaded
+[02Aug2025 04:25:02.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.5.205.70:55619] logged in with entity id 27112 at (767.3737275386213, 89.0, 923.4433502770828)
+[02Aug2025 04:25:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[02Aug2025 04:25:03.806] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2fa8843a-67ac-3a12-937e-775dc123023f was loaded
+[02Aug2025 04:25:03.806] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Asriel]
+[02Aug2025 04:25:03.806] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Asriel]
+[02Aug2025 04:25:21.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.237470518484969,-1.0,-0.14169130028692933
+[02Aug2025 04:25:21.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[02Aug2025 04:25:23.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.102701157421151,-0.2336320060424839,-0.02259822376003129
+[02Aug2025 04:25:26.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.86754549240068,-1.9215999984741217,-1.4644766716777369
+[02Aug2025 04:25:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pene
+[02Aug2025 04:25:31.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.904481392989084,2.0724278036804407,-0.6251911365121021
+[02Aug2025 04:25:34.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 10.172118848470149,-0.16610926093821377,-0.16201265278910526
+[02Aug2025 04:25:36.013] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 62,63: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:36.014] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:36.014] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:25:36.014] [Worker-Main-3/INFO] [lostcities/]:     Building: building6
+[02Aug2025 04:25:36.014] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[02Aug2025 04:25:36.014] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[02Aug2025 04:25:36.299] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 62,59: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:36.299] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:36.299] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:25:36.299] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[02Aug2025 04:25:36.299] [Worker-Main-1/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:25:36.299] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[02Aug2025 04:25:36.355] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 62,58: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:37.910] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:37.910] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:25:37.910] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: townhall
+[02Aug2025 04:25:37.910] [Worker-Main-1/INFO] [lostcities/]:     Building: town01
+[02Aug2025 04:25:37.910] [Worker-Main-1/INFO] [lostcities/]:         Floors: 1
+[02Aug2025 04:25:37.911] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[02Aug2025 04:25:38.200] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 62,55: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:38.201] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:38.202] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:25:38.202] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi1
+[02Aug2025 04:25:38.202] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[02Aug2025 04:25:38.203] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:25:38.203] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[02Aug2025 04:25:38.280] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 62,54: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:38.280] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:38.281] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:25:38.281] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[02Aug2025 04:25:38.281] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:25:38.281] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 4
+[02Aug2025 04:25:38.373] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 62,57: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:38.374] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:38.374] [Worker-Main-2/INFO] [lostcities/]:     Level: 1
+[02Aug2025 04:25:38.374] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: townhall
+[02Aug2025 04:25:38.374] [Worker-Main-2/INFO] [lostcities/]:     Building: town00
+[02Aug2025 04:25:38.374] [Worker-Main-2/INFO] [lostcities/]:         Floors: 1
+[02Aug2025 04:25:38.374] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[02Aug2025 04:25:38.405] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 62,56: null
+java.lang.NullPointerException: null
+[02Aug2025 04:25:38.405] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[02Aug2025 04:25:38.405] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[02Aug2025 04:25:38.405] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi1
+[02Aug2025 04:25:38.405] [Worker-Main-2/INFO] [lostcities/]:     Building: building1
+[02Aug2025 04:25:38.406] [Worker-Main-2/INFO] [lostcities/]:         Floors: 3
+[02Aug2025 04:25:38.406] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 5
+[02Aug2025 04:25:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
+[02Aug2025 04:25:45.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.864415497402433,1.0244240882136921,2.2989777454867806
+[02Aug2025 04:25:48.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.074810740607731,-1.4199999868869781,0.5303820779210717
+[02Aug2025 04:25:48.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> p
+[02Aug2025 04:25:51.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.433374292152152,-1.0,-3.352846443437599
+[02Aug2025 04:25:55.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19079ms or 381 ticks behind

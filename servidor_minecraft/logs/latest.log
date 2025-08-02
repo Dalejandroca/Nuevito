@@ -3755,3 +3755,23 @@ java.lang.NullPointerException: null
 [02Aug2025 05:30:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> intenta tapar los huecos del piso
 [02Aug2025 05:31:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ilumina todo
 [02Aug2025 05:31:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Hot Stuff]
+[02Aug2025 05:34:42.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego tienes tierra?
+[02Aug2025 05:34:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> no
+[02Aug2025 05:35:13.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y hueso
+[02Aug2025 05:35:26.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si hueso ando sobrado
+[02Aug2025 05:35:39.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hasme un stack de polvo de hueso
+[02Aug2025 05:35:44.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pa sembrar arboles
+[02Aug2025 05:36:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga el lagaso
+[02Aug2025 05:37:52.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[02Aug2025 05:37:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[02Aug2025 05:37:52.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fcb33033-a2d1-3bae-abae-bbc169e822af was unloaded
+[02Aug2025 05:38:02.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[02Aug2025 05:39:37.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.197.101.54:59813] logged in with entity id 117922 at (-27.998566728102055, 91.0, 114.56714562469853)
+[02Aug2025 05:39:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[02Aug2025 05:39:39.070] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fcb33033-a2d1-3bae-abae-bbc169e822af was loaded
+[02Aug2025 05:39:39.070] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Dalej]
+[02Aug2025 05:39:39.071] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Dalej]
+[02Aug2025 05:40:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Sweet Dreams]
+[02Aug2025 05:40:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> alguien tiene polvora?
+[02Aug2025 05:41:10.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/77, l='ServerLevel[Mundo nuevo]', x=72.43, y=72.00, z=56.47] died, message: 'Farmer was slain by Zombie'
+[02Aug2025 05:43:06.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind

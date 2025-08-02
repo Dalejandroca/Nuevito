@@ -116,7 +116,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-01 04:55:44 +0000"
+      "apple": "2025-08-02 05:29:10 +0000",
+      "bread": "2025-08-01 04:55:44 +0000",
+      "rotten_flesh": "2025-08-02 05:31:26 +0000"
     },
     "done": false
   },
@@ -1921,9 +1923,51 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/spruce_bark": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 05:30:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-08-02 05:34:31 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/living_arrow": {
     "criteria": {
       "has_arrow": "2025-08-02 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-02 05:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-02 05:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-02 05:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 05:30:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-08-02 05:30:08 +0000"
     },
     "done": true
   },
@@ -1936,6 +1980,24 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-08-02 05:19:27 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/transportation/road_roller": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 05:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 05:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 05:32:09 +0000"
     },
     "done": true
   },
